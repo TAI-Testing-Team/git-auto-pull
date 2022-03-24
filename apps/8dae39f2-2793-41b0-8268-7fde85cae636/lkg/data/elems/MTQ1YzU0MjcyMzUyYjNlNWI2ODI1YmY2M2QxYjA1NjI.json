@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "rlcKShTo2+HVPBzqoFVuwA==\n",
+    "height": 91,
+    "hier_level": 0,
+    "human_hash": "a_X222_Y0_W61_H91",
+    "human_readable": "a_222_0_61_91_a_ffffffffffffffffffffffff3f5f00000000fffcffffffffffffffffffffffff_cf92c14bc5090914b25892fe0998d8c0",
+    "image_path": "MTQ1YzU0MjcyMzUyYjNlNWI2ODI1YmY2M2QxYjA1NjI.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-nav-item",
+                "data-track-id": "redesignedHeaderSpend",
+                "href": "/banking/"
+            },
+            "backend_node_id": 74,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 91.0,
+            "key": "222_0_61_91_Banking",
+            "tagName": "a",
+            "text": "Banking",
+            "width": 61.0,
+            "x": 222.0,
+            "y": 0.0
+        },
+        "location": {
+            "x": 222.0,
+            "y": 0.0
+        },
+        "size": {
+            "height": 91.0,
+            "width": 61.0
+        },
+        "tag_name": "a",
+        "text": "Banking"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Banking",
+    "transformed": true,
+    "width": 61,
+    "x": 222,
+    "y": 0
+}

@@ -1,0 +1,39 @@
+{
+    "Swipe Up Script VS Scroll Down Step": {
+        "category": null,
+        "description": "",
+        "is_deactivated": false,
+        "is_standard_test": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [],
+                "script_name": "swipe_up_gesture.py",
+                "stepIsOpen": true,
+                "timeout": null,
+                "type": "execute_script",
+                "widget": ""
+            },
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "swipe_up",
+                "label_count": null,
+                "labels": [],
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "2095e472-aa8c-11ec-b04f-2af66dd5c1a0",
+        "title": "Swipe Up Script VS Scroll Down Step"
+    }
+}

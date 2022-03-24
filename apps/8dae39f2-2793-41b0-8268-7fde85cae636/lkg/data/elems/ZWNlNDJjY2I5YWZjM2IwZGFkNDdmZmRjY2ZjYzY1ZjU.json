@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "nrd1h+8T8gJV++ONsDQmBw==\n",
+    "height": 23,
+    "hier_level": 0,
+    "human_hash": "p_X329_Y143_W70_H23",
+    "human_readable": "p_329_143_70_23_p_0000000000000000000000000000000000000000000000000000000000000000_bcb301b38723824be4430497062cf0dd",
+    "image_path": "ZWNlNDJjY2I5YWZjM2IwZGFkNDdmZmRjY2ZjYzY1ZjU.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nav-submenu-subtitle"
+            },
+            "backend_node_id": 207,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 23.0,
+            "key": "329_143_70_23_Retirement",
+            "tagName": "p",
+            "text": "Retirement",
+            "width": 70.0,
+            "x": 329.0,
+            "y": 143.0
+        },
+        "location": {
+            "x": 329.0,
+            "y": 143.0
+        },
+        "size": {
+            "height": 23.0,
+            "width": 70.0
+        },
+        "tag_name": "p",
+        "text": "Retirement"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "Retirement",
+    "transformed": true,
+    "width": 70,
+    "x": 329,
+    "y": 143
+}

@@ -1,0 +1,924 @@
+[
+    {
+        "hash": "7ea9e506f772ae45dac550975b7e5c93"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "rlcKShTo2+HVPBzqoFVuwA==\n",
+                "height": 91,
+                "hier_level": 0,
+                "human_hash": "a_X222_Y0_W61_H91",
+                "human_readable": "a_222_0_61_91_a_ffffffffffffffffffffffff3f5f00000000fffcffffffffffffffffffffffff_cf92c14bc5090914b25892fe0998d8c0",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "header-nav-item",
+                            "data-track-id": "redesignedHeaderSpend",
+                            "href": "/banking/"
+                        },
+                        "backend_node_id": 81,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 91.0,
+                        "key": "222_0_61_91_Banking",
+                        "tagName": "a",
+                        "text": "Banking",
+                        "width": 61.0,
+                        "x": 222.0,
+                        "y": 0.0
+                    },
+                    "location": {
+                        "x": 222.0,
+                        "y": 0.0
+                    },
+                    "size": {
+                        "height": 91.0,
+                        "width": 61.0
+                    },
+                    "tag_name": "a",
+                    "text": "Banking"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "fffcfffeffcfff07e107e323e127e127e30fe62ffe0fff3fffbffffff7f0fff8",
+                "resource-id": "",
+                "screen_hash": "7ea9e506f772ae45dac550975b7e5c93",
+                "screen_height": 956,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Banking",
+                "transformed": true,
+                "width": 61,
+                "x": 222,
+                "y": 0
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "MTQ1YzU0MjcyMzUyYjNlNWI2ODI1YmY2M2QxYjA1NjI"
+    },
+    {
+        "hash": "c305b93b6ebf3e3980fddc2d11158101"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "rJnT5rS44MXZx/+mqYYt8w==\n",
+                "height": 91,
+                "hier_level": 0,
+                "human_hash": "a_X318_Y0_W57_H91",
+                "human_readable": "a_318_0_57_91_a_ffffffffffffffffffffffff1fdf00000000fffcffffffffffffffffffffffff_1167c45f89f014c038feefbe2a4becde",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "header-nav-item",
+                            "data-track-id": "redesignedHeaderEarn",
+                            "href": "/earn"
+                        },
+                        "backend_node_id": 3930,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 91.0,
+                        "key": "318_0_57_91_Earning",
+                        "tagName": "a",
+                        "text": "Earning",
+                        "width": 57.0,
+                        "x": 318.0,
+                        "y": 0.0
+                    },
+                    "location": {
+                        "x": 318.0,
+                        "y": 0.0
+                    },
+                    "size": {
+                        "height": 91.0,
+                        "width": 57.0
+                    },
+                    "tag_name": "a",
+                    "text": "Earning"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "fffcfffcf3ffe3ffe31fe31fe107ed3fe51fcd1fc1ffc3ffeffffffffef0fef8",
+                "resource-id": "",
+                "screen_hash": "c305b93b6ebf3e3980fddc2d11158101",
+                "screen_height": 956,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Earning",
+                "transformed": true,
+                "width": 57,
+                "x": 318,
+                "y": 0
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "YTNjNTViNmYyNTVmODZjYzBkMDViMTA3YjM3YmRjOWM"
+    },
+    {
+        "hash": "5f9fb2f44e48ecc59a048708c93e473d"
+    },
+    {
+        "action_info": {
+            "elem_class": "div",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "div",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "U9GYNj6TwCn70re3HYMbMA==\n",
+                "height": 91,
+                "hier_level": 0,
+                "human_hash": "div_X102_Y0_W85_H91",
+                "human_readable": "div_102_0_85_91_div_ffffffffffffffffffffffff7f7f00040004ffe7ffffffffffffffffffffffff_5741b26153549a530ba85bb4274cad1a",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "header-nav-item nav-item-with-children"
+                        },
+                        "backend_node_id": 5537,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 91.0,
+                        "key": "102_0_85_91_Investing\n               \n                        Invest\n                        \n                       \n                        Investment account\n                        \n                        Later\n                        \n                       \n                        Retirement\n                        \n                        Early\n                        \n                       \n                        Invest for kids\n                        \n                        Sustainable\n                        \n                       \n                        Sustainable ESG portfolios\n                        \n                        Bits of Bitcoin\n                        \n                           \n                            New\n                           \n                        Bitcoin ETF",
+                        "tagName": "div",
+                        "text": "Investing\n               \n                        Invest\n                        \n                       \n                        Investment account\n                        \n                        Later\n                        \n                       \n                        Retirement\n                        \n                        Early\n                        \n                       \n                        Invest for kids\n                        \n                        Sustainable\n                        \n                       \n                        Sustainable ESG portfolios\n                        \n                        Bits of Bitcoin\n                        \n                           \n                            New\n                           \n                        Bitcoin ETF",
+                        "width": 85.0,
+                        "x": 102.0,
+                        "y": 0.0
+                    },
+                    "location": {
+                        "x": 102.0,
+                        "y": 0.0
+                    },
+                    "size": {
+                        "height": 91.0,
+                        "width": 85.0
+                    },
+                    "tag_name": "div",
+                    "text": "Investing\n               \n                        Invest\n                        \n                       \n                        Investment account\n                        \n                        Later\n                        \n                       \n                        Retirement\n                        \n                        Early\n                        \n                       \n                        Invest for kids\n                        \n                        Sustainable\n                        \n                       \n                        Sustainable ESG portfolios\n                        \n                        Bits of Bitcoin\n                        \n                           \n                            New\n                           \n                        Bitcoin ETF"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "ffffffff004f1f7f0fff1f8f1f8f3f7f3f7f3f7fffff00600600060006000000",
+                "resource-id": "",
+                "screen_hash": "5f9fb2f44e48ecc59a048708c93e473d",
+                "screen_height": 956,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "div",
+                "text": "Investing\n               \n                        Invest\n                        \n                       \n                        Investment account\n                        \n                        Later\n                        \n                       \n                        Retirement\n                        \n                        Early\n                        \n                       \n                        Invest for kids\n                        \n                        Sustainable\n                        \n                       \n                        Sustainable ESG portfolios\n                        \n                        Bits of Bitcoin\n                        \n                           \n                            New\n                           \n                        Bitcoin ETF",
+                "transformed": true,
+                "width": 85,
+                "x": 102,
+                "y": 0
+            },
+            "gesture": "hover",
+            "text": "hover"
+        },
+        "elem_hash": "YTIyZWNjZDMxNGI4MDY0OTU4ODc2ZjNkMDUzY2NhZTA"
+    },
+    {
+        "hash": "07916ef35c53b7466c3203e00789ca28"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "SMAjwPTPyZxEUESmwS2OLA==\n",
+                "height": 56,
+                "hier_level": 0,
+                "human_hash": "a_X1649_Y18_W45_H56",
+                "human_readable": "a_1649_18_45_56_a_ffffffffffffffffffffffff3fe7202000200022fc7fffffffffffffffffffff_600bb5b2e4d74ff57114363b8a101e42",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "header-nav-item",
+                            "data-track-id": "headerLogin",
+                            "href": "https://app.acorns.com/"
+                        },
+                        "backend_node_id": 7396,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 56.0,
+                        "key": "1649_18_45_56_Log in",
+                        "tagName": "a",
+                        "text": "Log in",
+                        "width": 45.0,
+                        "x": 1649.0,
+                        "y": 18.0
+                    },
+                    "location": {
+                        "x": 1649.0,
+                        "y": 18.0
+                    },
+                    "size": {
+                        "height": 56.0,
+                        "width": 45.0
+                    },
+                    "tag_name": "a",
+                    "text": "Log in"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "ffffffff004f1f7f0fff1f8f1f8f3f7f3f7f3f7fffff00600600060006000000",
+                "resource-id": "",
+                "screen_hash": "07916ef35c53b7466c3203e00789ca28",
+                "screen_height": 956,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Log in",
+                "transformed": true,
+                "width": 45,
+                "x": 1649,
+                "y": 18
+            },
+            "gesture": "tap",
+            "text": "tap"
+        },
+        "elem_hash": "ZDgzZjk4ZWI0ZWUwNDQyZmQ0MmZkODM5MTQyYmZiYjA"
+    },
+    {
+        "hash": "58764af4c43548bc67f76110723773dc"
+    },
+    {
+        "action_info": {
+            "elem_class": "input",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "input",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "NriSWX30yJAIkhCTKcUhsg==\n",
+                "height": 44,
+                "hier_level": 0,
+                "human_hash": "input_X760_Y398_W400_H44",
+                "human_readable": "input_760_398_400_44_input_0000ffffffffffffffffffffdfff03ff03ff03ffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "sc-kXeGPI fhFoLt",
+                            "data-testid": "text_input",
+                            "id": "email",
+                            "label": "Email",
+                            "name": "email",
+                            "placeholder": "name@acorns.com",
+                            "type": "email",
+                            "value": ""
+                        },
+                        "backend_node_id": 8844,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 44.0,
+                        "key": "760_398_400_44_",
+                        "tagName": "input",
+                        "text": "",
+                        "width": 400.0,
+                        "x": 760.0,
+                        "y": 398.0
+                    },
+                    "location": {
+                        "x": 760.0,
+                        "y": 398.0
+                    },
+                    "size": {
+                        "height": 44.0,
+                        "width": 400.0
+                    },
+                    "tag_name": "input",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "fbfffffff3fff97ff3fffa7ffffffffffffffffff43fff9ffc8fff9fffffffff",
+                "resource-id": "",
+                "screen_hash": "58764af4c43548bc67f76110723773dc",
+                "screen_height": 956,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "input",
+                "text": "",
+                "transformed": true,
+                "width": 400,
+                "x": 760,
+                "y": 398
+            },
+            "gesture": "text_entry_no_submit",
+            "text": ""
+        },
+        "elem_hash": "OWMzZDIwYzJhNGJlNGQxYTZhMjIwOTVmZTVhNzU3YzY"
+    },
+    {
+        "hash": "88fd8bfc5d645a02d73d495098888451"
+    },
+    {
+        "action_info": {
+            "elem_class": "input",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "input",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "NriSWX30yJAIkhCTKcUhsg==\n",
+                "height": 44,
+                "hier_level": 0,
+                "human_hash": "input_X760_Y398_W400_H44",
+                "human_readable": "input_760_398_400_44_input_0000ffffffffffff7fff7fff5fff03ff03ff03ff7fff7fffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "sc-kXeGPI fhFoLt",
+                            "data-testid": "text_input",
+                            "id": "email",
+                            "label": "Email",
+                            "name": "email",
+                            "placeholder": "name@acorns.com",
+                            "type": "email",
+                            "value": ""
+                        },
+                        "backend_node_id": 8844,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 44.0,
+                        "key": "760_398_400_44_",
+                        "tagName": "input",
+                        "text": "",
+                        "width": 400.0,
+                        "x": 760.0,
+                        "y": 398.0
+                    },
+                    "location": {
+                        "x": 760.0,
+                        "y": 398.0
+                    },
+                    "size": {
+                        "height": 44.0,
+                        "width": 400.0
+                    },
+                    "tag_name": "input",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "fbfffffff3fff97ff3fffa7ffffffffffffffffff43fff9ffc8fff9fffffffff",
+                "resource-id": "",
+                "screen_hash": "88fd8bfc5d645a02d73d495098888451",
+                "screen_height": 956,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "input",
+                "text": "",
+                "transformed": true,
+                "width": 400,
+                "x": 760,
+                "y": 398
+            },
+            "gesture": "text_entry_no_submit",
+            "text": "narflarflurgens@gmails.com"
+        },
+        "elem_hash": "NjQwYzYwMGI3M2M4YTRlMjljZTA3Mjg2NzNhNWE0ZjM"
+    },
+    {
+        "hash": "7033c8596c79a9d9d838445e134c9212"
+    },
+    {
+        "action_info": {
+            "elem_class": "input",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "input",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "7b85VzXbwXJhahkILnzbvw==\n",
+                "height": 44,
+                "hier_level": 0,
+                "human_hash": "input_X760_Y502_W400_H44",
+                "human_readable": "input_760_502_400_44_input_0000fffffffffffffffffff9fff80ffc0ffcffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "sc-kXeGPI cVupsv",
+                            "data-testid": "text_input",
+                            "id": "password",
+                            "label": "Password",
+                            "name": "password",
+                            "placeholder": "\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf",
+                            "type": "password",
+                            "value": ""
+                        },
+                        "backend_node_id": 8848,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 44.0,
+                        "key": "760_502_400_44_",
+                        "tagName": "input",
+                        "text": "",
+                        "width": 400.0,
+                        "x": 760.0,
+                        "y": 502.0
+                    },
+                    "location": {
+                        "x": 760.0,
+                        "y": 502.0
+                    },
+                    "size": {
+                        "height": 44.0,
+                        "width": 400.0
+                    },
+                    "tag_name": "input",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "fbfffffff3fff97ff3fffb7ffffffffffffffffff43fff9ffc8fff9fffffffff",
+                "resource-id": "",
+                "screen_hash": "7033c8596c79a9d9d838445e134c9212",
+                "screen_height": 956,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "input",
+                "text": "",
+                "transformed": true,
+                "width": 400,
+                "x": 760,
+                "y": 502
+            },
+            "gesture": "text_entry",
+            "text": "Password123@"
+        },
+        "elem_hash": "MGI0ZWMwNzc0ZjRiNGY0M2U1MDBjNmVkZDMzZWU1Yzg"
+    },
+    {
+        "hash": "25578041b6ff77b074ea9b1e30f309dc"
+    },
+    {
+        "action_info": {
+            "elem_class": "input",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "input",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "fToqYshihOtfm40HXLu9Pg==\n",
+                "height": 44,
+                "hier_level": 0,
+                "human_hash": "input_X760_Y502_W400_H44",
+                "human_readable": "input_760_502_400_44_input_0000fffffffffffffffffffdfffc07fc07fcffffffffffffffffffffffff0000_fe216291419785c3b2e40c87503fee92",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "sc-kXeGPI cVupsv",
+                            "data-testid": "text_input",
+                            "id": "password",
+                            "label": "Password",
+                            "name": "password",
+                            "placeholder": "\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf",
+                            "type": "password",
+                            "value": "Password123@"
+                        },
+                        "backend_node_id": 8848,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 44.0,
+                        "key": "760_502_400_44_",
+                        "tagName": "input",
+                        "text": "",
+                        "width": 400.0,
+                        "x": 760.0,
+                        "y": 502.0
+                    },
+                    "location": {
+                        "x": 760.0,
+                        "y": 502.0
+                    },
+                    "size": {
+                        "height": 44.0,
+                        "width": 400.0
+                    },
+                    "tag_name": "input",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "fffffffff3fff9fff3fffbfffffffffffffffc7ffc3fffdffe9fff9fffffffff",
+                "resource-id": "",
+                "screen_hash": "25578041b6ff77b074ea9b1e30f309dc",
+                "screen_height": 956,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "input",
+                "text": "Password123@",
+                "transformed": true,
+                "width": 400,
+                "x": 760,
+                "y": 502
+            },
+            "gesture": "text_entry",
+            "text": "Password123@"
+        },
+        "elem_hash": "MDE1YTRiMjY3ODk5MGJhYTgyMmFjMGFmODMwMGUwNmU"
+    },
+    {
+        "hash": "f385b36c4e8add9d7f21b0feb2d0406b"
+    },
+    {
+        "action_info": {
+            "elem_class": "screen",
+            "elem_info": {
+                "class": "screen",
+                "hash": "V3QPzqhngJucAVeynXbqjg==\n",
+                "height": 956,
+                "hier_level": 0,
+                "human_hash": "screen_X0_Y0_W1920_H956",
+                "human_readable": "screen_0_0_1920_956_screen_000000000000000001c003c003c003c003c003c003c003800000000000000000_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "is_transformed": true,
+                "png_hash": "000000000000000001c003c003c003c003c003c003c003800000000000000000",
+                "screen_hash": "f385b36c4e8add9d7f21b0feb2d0406b",
+                "tag_name": "screen",
+                "text": "",
+                "width": 1920,
+                "x": 0,
+                "y": 0
+            },
+            "gesture": "go_back",
+            "text": "go_back"
+        },
+        "elem_hash": "ZmM1MDMwZTYzZGVkZWZkMWUzNDA1YWEwMmRjY2E4MDA"
+    },
+    {
+        "hash": "5f9fb2f44e48ecc59a048708c93e473d"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "mtALch925CiYishf5hOWvQ==\n",
+                "height": 42,
+                "hier_level": 0,
+                "human_hash": "a_X40_Y24_W62_H42",
+                "human_readable": "a_40_24_62_42_a_ffffe7ffc3ff81ff00ff00ff00ff00ff00ff00ff00ff81ff81ffc3ffe7ffffff_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "logo-wrapper",
+                            "data-track-id": "redesignedHeaderLogo",
+                            "href": "/"
+                        },
+                        "backend_node_id": 13018,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 42.0,
+                        "key": "40_24_62_42_",
+                        "tagName": "a",
+                        "text": "",
+                        "width": 62.0,
+                        "x": 40.0,
+                        "y": 24.0
+                    },
+                    "location": {
+                        "x": 40.0,
+                        "y": 24.0
+                    },
+                    "size": {
+                        "height": 42.0,
+                        "width": 62.0
+                    },
+                    "tag_name": "a",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "ffffffff004f1f7f0fff1f8f1f8f3f7f3f7f3f7fffff00600600060006000000",
+                "resource-id": "",
+                "screen_hash": "5f9fb2f44e48ecc59a048708c93e473d",
+                "screen_height": 956,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "",
+                "transformed": true,
+                "width": 62,
+                "x": 40,
+                "y": 24
+            },
+            "gesture": "double_tap",
+            "text": "double_tap"
+        },
+        "elem_hash": "NmM5MDI5NDBjNGU2NDRjMjA1ZjNlNzM3MDNjMDBkZWE"
+    },
+    {
+        "hash": "2a6166e67fab772b8e79b55860e8fb5a"
+    },
+    {
+        "action_info": {
+            "elem_class": "img",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "img",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "/MIiutWGEDHgn1cDQ1XMtA==\n",
+                "height": 36,
+                "hier_level": 0,
+                "human_hash": "img_X941_Y785_W36_H36",
+                "human_readable": "img_941_785_36_36_img_fffffffff81ff00fe007c003c003c003c003c003c003e007f00ff81fffffffff_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "alt": "icon",
+                            "src": "https://sqy7rm.media.zestyio.com/Easy.svg"
+                        },
+                        "backend_node_id": 14587,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 36.0,
+                        "key": "941_785_36_36_",
+                        "tagName": "img",
+                        "text": "",
+                        "width": 36.0,
+                        "x": 941.0,
+                        "y": 785.0
+                    },
+                    "location": {
+                        "x": 941.0,
+                        "y": 785.0
+                    },
+                    "size": {
+                        "height": 36.0,
+                        "width": 36.0
+                    },
+                    "tag_name": "img",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "fffcfffeffcfff07e107e323e127e127e30fe62ffe0fff3fffbffffff7f0fff8",
+                "resource-id": "",
+                "screen_hash": "2a6166e67fab772b8e79b55860e8fb5a",
+                "screen_height": 956,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "img",
+                "text": "",
+                "transformed": true,
+                "width": 36,
+                "x": 941,
+                "y": 785
+            },
+            "gesture": "move_element_to_top",
+            "text": "move_element_to_top"
+        },
+        "elem_hash": "NmZiMTM0NTlmZTFiYmY4MjhiMmUxNGJkMDU2NjliYTM"
+    },
+    {
+        "hash": "0edfc4e8536ab14d26172cfe3a11ce65"
+    },
+    {
+        "action_info": {
+            "elem_class": "img",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "img",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "CR9mHjTbYhy4mwoBeef7LA==\n",
+                "height": 36,
+                "hier_level": 0,
+                "human_hash": "img_X941_Y258_W36_H36",
+                "human_readable": "img_941_258_36_36_img_fffffe7ffc3ff983fa47f803f00fe007e007e007e007f00ff00ff81fffffffff_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "alt": "icon",
+                            "src": "https://sqy7rm.media.zestyio.com/Trusted.svg"
+                        },
+                        "backend_node_id": 14898,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 36.0,
+                        "key": "941_258_36_36_",
+                        "tagName": "img",
+                        "text": "",
+                        "width": 36.0,
+                        "x": 941.0,
+                        "y": 258.0
+                    },
+                    "location": {
+                        "x": 941.0,
+                        "y": 258.0
+                    },
+                    "size": {
+                        "height": 36.0,
+                        "width": 36.0
+                    },
+                    "tag_name": "img",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "fffcfffcf7fff3ffffffffafffe7ffe7ffeffffffb0ff98ff90ff108f1d0fff0",
+                "resource-id": "",
+                "screen_hash": "0edfc4e8536ab14d26172cfe3a11ce65",
+                "screen_height": 956,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "img",
+                "text": "",
+                "transformed": true,
+                "width": 36,
+                "x": 941,
+                "y": 258
+            },
+            "gesture": "move_element_to_bottom",
+            "text": "move_element_to_bottom"
+        },
+        "elem_hash": "ZThmZmU4NDgxOTgwOTNkNzlmNGNhOGY3YzFlMzhiM2Q"
+    },
+    {
+        "hash": "4452877a2a55fd8f5d194cb5aa3d73f1"
+    },
+    {
+        "action_info": {
+            "elem_class": "screen",
+            "elem_info": {
+                "class": "screen",
+                "hash": "V3QPzqhngJucAVeynXbqjg==\n",
+                "height": 956,
+                "hier_level": 0,
+                "human_hash": "screen_X0_Y0_W1920_H956",
+                "human_readable": "screen_0_0_1920_956_screen_fffcff8ce107e323e127e107e20be22f5e08ff3fffbffffff7fffffffff0fff8_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "is_transformed": true,
+                "png_hash": "fffcff8ce107e323e127e107e20be22f5e08ff3fffbffffff7fffffffff0fff8",
+                "screen_hash": "4452877a2a55fd8f5d194cb5aa3d73f1",
+                "tag_name": "screen",
+                "text": "",
+                "width": 1920,
+                "x": 0,
+                "y": 0
+            },
+            "gesture": "go_forward",
+            "text": "go_forward"
+        },
+        "elem_hash": "NjY0NjA5MDY4ZmQwNzA2ZTVjNTMzNDg5MzcwZjk2MDc"
+    },
+    {
+        "hash": "4452877a2a55fd8f5d194cb5aa3d73f1"
+    }
+]

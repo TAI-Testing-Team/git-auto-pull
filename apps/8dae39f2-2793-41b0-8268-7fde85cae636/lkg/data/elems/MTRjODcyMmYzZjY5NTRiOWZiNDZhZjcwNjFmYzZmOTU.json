@@ -1,0 +1,67 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "wA+HQ/n0qGjNmYYOtql0mw==\n",
+    "height": 494,
+    "hier_level": 0,
+    "human_hash": "img_X1146_Y142_W277_H494",
+    "human_readable": "img_1146_142_277_494_img_e000e000c000c000c000dff95ffd1ff9bff93ff93ffb20037ff37ff37ff30007_9d4568c009d203ab10e33ea9953a0264",
+    "image_path": "MTRjODcyMmYzZjY5NTRiOWZiNDZhZjcwNjFmYzZmOTU.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "",
+                "id": "a4-phone",
+                "sizes": "(max-width: 767px) 172px,\n                   (max-width: 1024px) 247px,\n                   277px",
+                "src": "https://sqy7rm.media.zestyio.com/2021-July-Homepage-Hero-Phone_opt_6.df089cf37bf2ae6785610f8f362ba575.png",
+                "srcset": "https://sqy7rm.media.zestyio.com/2021-July-Homepage-Hero-Phone_opt_6.f1cb27a519bdb5b6ed34049a5b86e317.SJePNVlCR_.png 172w,\n                    https://sqy7rm.media.zestyio.com/2021-July-Homepage-Hero-Phone_opt_6.f1cb27a519bdb5b6ed34049a5b86e317.SJePNVlCR_.png 247w,\n                    https://sqy7rm.media.zestyio.com/2021-July-Homepage-Hero-Phone_opt_6.f1cb27a519bdb5b6ed34049a5b86e317.SJePNVlCR_.png 277w"
+            },
+            "backend_node_id": 361,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 494.0,
+            "key": "1146_142_277_494_",
+            "tagName": "img",
+            "text": "",
+            "width": 277.0,
+            "x": 1146.0,
+            "y": 142.0
+        },
+        "location": {
+            "x": 1146.0,
+            "y": 142.0
+        },
+        "size": {
+            "height": 494.0,
+            "width": 277.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 277,
+    "x": 1146,
+    "y": 142
+}

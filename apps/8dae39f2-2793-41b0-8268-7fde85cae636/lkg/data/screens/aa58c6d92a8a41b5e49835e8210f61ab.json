@@ -1,0 +1,2879 @@
+{
+    "action_info": {
+        "elem_class": "a",
+        "elem_info": {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "froWY8kVMV6xZVpAFN8tRw==\n",
+            "height": 38,
+            "hier_level": 0,
+            "human_hash": "a_X812_Y542_W276_H38",
+            "human_readable": "a_812_542_276_38_a_ffffffff07e00e700ef00ff00ff00ef00ff00e700ef00ff00e70066000000000_4a721f853422086fc584c53d68c1d634",
+            "index": -1,
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-cCDHgp RSWpw"
+                    },
+                    "backend_node_id": 3690,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 38.0,
+                    "key": "812_542_276_38_Auto Debit Authorization",
+                    "tagName": "a",
+                    "text": "Auto Debit Authorization",
+                    "width": 276.0,
+                    "x": 812.0,
+                    "y": 542.0
+                },
+                "location": {
+                    "x": 812.0,
+                    "y": 542.0
+                },
+                "size": {
+                    "height": 38.0,
+                    "width": 276.0
+                },
+                "tag_name": "a",
+                "text": "Auto Debit Authorization"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "png_hash": "ffffffff07e00e700ef00ff00ff00ef00ff00e700ef00ff00e70066000000000",
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Auto Debit Authorization",
+            "transformed": true,
+            "width": 276,
+            "x": 812,
+            "y": 542
+        },
+        "gesture": "tap",
+        "text": ""
+    },
+    "all_elems": [
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "html",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "IwDDnI1uhWlQclG1UjQHCw==\n",
+            "height": 853,
+            "hier_level": 0,
+            "human_hash": "html_X0_Y0_W1920_H853",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {},
+                    "backend_node_id": 3435,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 853.0,
+                    "key": "0_0_1920_853_Please note: This website includes an accessibility system. Press Control-F11 to adjust the website to the visually impaired who are using a screen reader; Press Control-F10 to open an accessibility menu.  Press enter for Accessibility for blind people  who use screen readers Press enter for Keyboard Navigation Press enter for Accessibility menu   Acorns helps you save & invest Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .  Create account   This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.  Accessibility options",
+                    "tagName": "html",
+                    "text": "Please note: This website includes an accessibility system. Press Control-F11 to adjust the website to the visually impaired who are using a screen reader; Press Control-F10 to open an accessibility menu.  Press enter for Accessibility for blind people  who use screen readers Press enter for Keyboard Navigation Press enter for Accessibility menu   Acorns helps you save & invest Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .  Create account   This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.  Accessibility options",
+                    "width": 1920.0,
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "size": {
+                    "height": 853.0,
+                    "width": 1920.0
+                },
+                "tag_name": "html",
+                "text": "Please note: This website includes an accessibility system. Press Control-F11 to adjust the website to the visually impaired who are using a screen reader; Press Control-F10 to open an accessibility menu.  Press enter for Accessibility for blind people  who use screen readers Press enter for Keyboard Navigation Press enter for Accessibility menu   Acorns helps you save & invest Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .  Create account   This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.  Accessibility options"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "html",
+            "text": "Please note: This website includes an accessibility system. Press Control-F11 to adjust the website to the visually impaired who are using a screen reader; Press Control-F10 to open an accessibility menu.  Press enter for Accessibility for blind people  who use screen readers Press enter for Keyboard Navigation Press enter for Accessibility menu   Acorns helps you save & invest Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .  Create account   This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.  Accessibility options",
+            "transformed": true,
+            "width": 1920,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "body",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "CH6lv4o5Tu8fek8e/kjS2Q==\n",
+            "height": 853,
+            "hier_level": 0,
+            "human_hash": "body_X0_Y0_W1920_H853",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "INDlangdirLTR INDpositionLeft INDDesktop INDChrome INDhasDragTooltip"
+                    },
+                    "backend_node_id": 3449,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 853.0,
+                    "key": "0_0_1920_853_Please note: This website includes an accessibility system. Press Control-F11 to adjust the website to the visually impaired who are using a screen reader; Press Control-F10 to open an accessibility menu.  Press enter for Accessibility for blind people  who use screen readers Press enter for Keyboard Navigation Press enter for Accessibility menu   Acorns helps you save & invest Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .  Create account   This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.  Accessibility options",
+                    "tagName": "body",
+                    "text": "Please note: This website includes an accessibility system. Press Control-F11 to adjust the website to the visually impaired who are using a screen reader; Press Control-F10 to open an accessibility menu.  Press enter for Accessibility for blind people  who use screen readers Press enter for Keyboard Navigation Press enter for Accessibility menu   Acorns helps you save & invest Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .  Create account   This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.  Accessibility options",
+                    "width": 1920.0,
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "size": {
+                    "height": 853.0,
+                    "width": 1920.0
+                },
+                "tag_name": "body",
+                "text": "Please note: This website includes an accessibility system. Press Control-F11 to adjust the website to the visually impaired who are using a screen reader; Press Control-F10 to open an accessibility menu.  Press enter for Accessibility for blind people  who use screen readers Press enter for Keyboard Navigation Press enter for Accessibility menu   Acorns helps you save & invest Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .  Create account   This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.  Accessibility options"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "body",
+            "text": "Please note: This website includes an accessibility system. Press Control-F11 to adjust the website to the visually impaired who are using a screen reader; Press Control-F10 to open an accessibility menu.  Press enter for Accessibility for blind people  who use screen readers Press enter for Keyboard Navigation Press enter for Accessibility menu   Acorns helps you save & invest Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .  Create account   This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.  Accessibility options",
+            "transformed": true,
+            "width": 1920,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "img",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "eyKz3w7sMgEFE2UEYZPrQw==\n",
+            "height": 26,
+            "hier_level": 0,
+            "human_hash": "img_X912_Y27_W97_H26",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-jGkVzM dgkVyg",
+                        "src": "/46baa0fe252ef2e7b491f5c8a10c7306.svg"
+                    },
+                    "backend_node_id": 3553,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 26.0,
+                    "key": "912_27_97_26_",
+                    "tagName": "img",
+                    "text": "",
+                    "width": 97.0,
+                    "x": 912.0,
+                    "y": 27.0
+                },
+                "location": {
+                    "x": 912.0,
+                    "y": 27.0
+                },
+                "size": {
+                    "height": 26.0,
+                    "width": 97.0
+                },
+                "tag_name": "img",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "img",
+            "text": "",
+            "transformed": true,
+            "width": 97,
+            "x": 912,
+            "y": 27
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "u07Zm+haQPRRvUUK5pnpOA==\n",
+            "height": 80,
+            "hier_level": 0,
+            "human_hash": "div_X0_Y0_W1920_H80",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-hDgvsY hgBnAB"
+                    },
+                    "backend_node_id": 3563,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 80.0,
+                    "key": "0_0_1920_80_",
+                    "tagName": "div",
+                    "text": "",
+                    "width": 1920.0,
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "size": {
+                    "height": 80.0,
+                    "width": 1920.0
+                },
+                "tag_name": "div",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "",
+            "transformed": true,
+            "width": 1920,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "3WBCXZvhOiEZVA+KzWrrQQ==\n",
+            "height": 853,
+            "hier_level": 0,
+            "human_hash": "div_X0_Y0_W1920_H853",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "id": "app"
+                    },
+                    "backend_node_id": 3469,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 853.0,
+                    "key": "0_0_1920_853_Acorns helps you save & invest Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .  Create account   This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.  Accessibility options",
+                    "tagName": "div",
+                    "text": "Acorns helps you save & invest Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .  Create account   This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.  Accessibility options",
+                    "width": 1920.0,
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "size": {
+                    "height": 853.0,
+                    "width": 1920.0
+                },
+                "tag_name": "div",
+                "text": "Acorns helps you save & invest Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .  Create account   This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.  Accessibility options"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Acorns helps you save & invest Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .  Create account   This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.  Accessibility options",
+            "transformed": true,
+            "width": 1920,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "5/ahxiJchSAYakGDxQLAKg==\n",
+            "height": 110,
+            "hier_level": 0,
+            "human_hash": "div_X0_Y0_W1920_H110",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-gtXRHa eDBGRB"
+                    },
+                    "backend_node_id": 3564,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 110.0,
+                    "key": "0_0_1920_110_",
+                    "tagName": "div",
+                    "text": "",
+                    "width": 1920.0,
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "size": {
+                    "height": 110.0,
+                    "width": 1920.0
+                },
+                "tag_name": "div",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "",
+            "transformed": true,
+            "width": 1920,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "strong",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "ESy1P5jSteSzeWnLDwHKlw==\n",
+            "height": 30,
+            "hier_level": 0,
+            "human_hash": "strong_X804_Y190_W312_H30",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {},
+                    "backend_node_id": 3634,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 30.0,
+                    "key": "804_190_312_30_Acorns helps you save & invest",
+                    "tagName": "strong",
+                    "text": "Acorns helps you save & invest",
+                    "width": 312.0,
+                    "x": 804.0,
+                    "y": 190.0
+                },
+                "location": {
+                    "x": 804.0,
+                    "y": 190.0
+                },
+                "size": {
+                    "height": 30.0,
+                    "width": 312.0
+                },
+                "tag_name": "strong",
+                "text": "Acorns helps you save & invest"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "strong",
+            "text": "Acorns helps you save & invest",
+            "transformed": true,
+            "width": 312,
+            "x": 804,
+            "y": 190
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "h5empaEXOR7hYKUXx88Ucg==\n",
+            "height": 30,
+            "hier_level": 0,
+            "human_hash": "div_X790_Y190_W340_H30",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-dgEPJF inpiPu"
+                    },
+                    "backend_node_id": 3569,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 30.0,
+                    "key": "790_190_340_30_Acorns helps you save & invest",
+                    "tagName": "div",
+                    "text": "Acorns helps you save & invest",
+                    "width": 340.0,
+                    "x": 790.0,
+                    "y": 190.0
+                },
+                "location": {
+                    "x": 790.0,
+                    "y": 190.0
+                },
+                "size": {
+                    "height": 30.0,
+                    "width": 340.0
+                },
+                "tag_name": "div",
+                "text": "Acorns helps you save & invest"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Acorns helps you save & invest",
+            "transformed": true,
+            "width": 340,
+            "x": 790,
+            "y": 190
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "20B8IW6DHUilldACGnIXNg==\n",
+            "height": 655,
+            "hier_level": 0,
+            "human_hash": "div_X560_Y110_W800_H655",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-idjmjb jOrKmu"
+                    },
+                    "backend_node_id": 3568,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 655.0,
+                    "key": "560_110_800_655_Acorns helps you save & invest Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .  Create account",
+                    "tagName": "div",
+                    "text": "Acorns helps you save & invest Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .  Create account",
+                    "width": 800.0,
+                    "x": 560.0,
+                    "y": 110.0
+                },
+                "location": {
+                    "x": 560.0,
+                    "y": 110.0
+                },
+                "size": {
+                    "height": 655.0,
+                    "width": 800.0
+                },
+                "tag_name": "div",
+                "text": "Acorns helps you save & invest Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .  Create account"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Acorns helps you save & invest Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .  Create account",
+            "transformed": true,
+            "width": 800,
+            "x": 560,
+            "y": 110
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "eY3l9QaSTEz7oUpcNSan1A==\n",
+            "height": 743,
+            "hier_level": 0,
+            "human_hash": "div_X0_Y110_W1920_H743",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-exdmVY itHPmF"
+                    },
+                    "backend_node_id": 3565,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 743.0,
+                    "key": "0_110_1920_743_Acorns helps you save & invest Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .  Create account   This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.  Accessibility options",
+                    "tagName": "div",
+                    "text": "Acorns helps you save & invest Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .  Create account   This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.  Accessibility options",
+                    "width": 1920.0,
+                    "x": 0.0,
+                    "y": 110.0
+                },
+                "location": {
+                    "x": 0.0,
+                    "y": 110.0
+                },
+                "size": {
+                    "height": 743.0,
+                    "width": 1920.0
+                },
+                "tag_name": "div",
+                "text": "Acorns helps you save & invest Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .  Create account   This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.  Accessibility options"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Acorns helps you save & invest Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .  Create account   This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.  Accessibility options",
+            "transformed": true,
+            "width": 1920,
+            "x": 0,
+            "y": 110
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "label",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "t3sWeqUVw9ulj574teeDVQ==\n",
+            "height": 16,
+            "hier_level": 0,
+            "human_hash": "label_X800_Y273_W31_H16",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-emmjRN MXPqs",
+                        "data-testid": "text_input_label",
+                        "for": "email"
+                    },
+                    "backend_node_id": 3641,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 16.0,
+                    "key": "800_273_31_16_Email",
+                    "tagName": "label",
+                    "text": "Email",
+                    "width": 31.0,
+                    "x": 800.0,
+                    "y": 273.0
+                },
+                "location": {
+                    "x": 800.0,
+                    "y": 273.0
+                },
+                "size": {
+                    "height": 16.0,
+                    "width": 31.0
+                },
+                "tag_name": "label",
+                "text": "Email"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "label",
+            "text": "Email",
+            "transformed": true,
+            "width": 31,
+            "x": 800,
+            "y": 273
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "aJdaT9y6AViqfAqdpEJXQg==\n",
+            "height": 16,
+            "hier_level": 0,
+            "human_hash": "div_X800_Y273_W320_H16",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-cpmLhU rkwii"
+                    },
+                    "backend_node_id": 3640,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 16.0,
+                    "key": "800_273_320_16_Email",
+                    "tagName": "div",
+                    "text": "Email",
+                    "width": 320.0,
+                    "x": 800.0,
+                    "y": 273.0
+                },
+                "location": {
+                    "x": 800.0,
+                    "y": 273.0
+                },
+                "size": {
+                    "height": 16.0,
+                    "width": 320.0
+                },
+                "tag_name": "div",
+                "text": "Email"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Email",
+            "transformed": true,
+            "width": 320,
+            "x": 800,
+            "y": 273
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "x4ZErSrVIgHzmekUqxdXqA==\n",
+            "height": 64,
+            "hier_level": 0,
+            "human_hash": "div_X784_Y260_W352_H64",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "text-input sc-bnXvFD gmntrF sc-dUjcNx iGyanQ",
+                        "data-error": "false"
+                    },
+                    "backend_node_id": 3639,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 64.0,
+                    "key": "784_260_352_64_Email",
+                    "tagName": "div",
+                    "text": "Email",
+                    "width": 352.0,
+                    "x": 784.0,
+                    "y": 260.0
+                },
+                "location": {
+                    "x": 784.0,
+                    "y": 260.0
+                },
+                "size": {
+                    "height": 64.0,
+                    "width": 352.0
+                },
+                "tag_name": "div",
+                "text": "Email"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Email",
+            "transformed": true,
+            "width": 352,
+            "x": 784,
+            "y": 260
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "IBc5GlFhTM33SJHMusOAhA==\n",
+            "height": 84,
+            "hier_level": 0,
+            "human_hash": "div_X784_Y260_W352_H84",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-fgITWd fcbWlX"
+                    },
+                    "backend_node_id": 3637,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 84.0,
+                    "key": "784_260_352_84_Email",
+                    "tagName": "div",
+                    "text": "Email",
+                    "width": 352.0,
+                    "x": 784.0,
+                    "y": 260.0
+                },
+                "location": {
+                    "x": 784.0,
+                    "y": 260.0
+                },
+                "size": {
+                    "height": 84.0,
+                    "width": 352.0
+                },
+                "tag_name": "div",
+                "text": "Email"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Email",
+            "transformed": true,
+            "width": 352,
+            "x": 784,
+            "y": 260
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "DsFUZ6XcOPmkAMi07Jv+PA==\n",
+            "height": 258,
+            "hier_level": 0,
+            "human_hash": "div_X750_Y260_W420_H258",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-iIQDRA ljPYBQ"
+                    },
+                    "backend_node_id": 3636,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 258.0,
+                    "key": "750_260_420_258_Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number",
+                    "tagName": "div",
+                    "text": "Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number",
+                    "width": 420.0,
+                    "x": 750.0,
+                    "y": 260.0
+                },
+                "location": {
+                    "x": 750.0,
+                    "y": 260.0
+                },
+                "size": {
+                    "height": 258.0,
+                    "width": 420.0
+                },
+                "tag_name": "div",
+                "text": "Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number",
+            "transformed": true,
+            "width": 420,
+            "x": 750,
+            "y": 260
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "B2q6tjjWybP3vJzZtj7mfg==\n",
+            "height": 400,
+            "hier_level": 0,
+            "human_hash": "div_X750_Y260_W420_H400",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-eghKGU cojBAO"
+                    },
+                    "backend_node_id": 3570,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 400.0,
+                    "key": "750_260_420_400_Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .",
+                    "tagName": "div",
+                    "text": "Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .",
+                    "width": 420.0,
+                    "x": 750.0,
+                    "y": 260.0
+                },
+                "location": {
+                    "x": 750.0,
+                    "y": 260.0
+                },
+                "size": {
+                    "height": 400.0,
+                    "width": 420.0
+                },
+                "tag_name": "div",
+                "text": "Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization ."
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Email  Password   Minimum 8 characters One special character One uppercase and lowercase character One number Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .",
+            "transformed": true,
+            "width": 420,
+            "x": 750,
+            "y": 260
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "input",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "ML2J+kEjELCUsuwmZbHqeA==\n",
+            "height": 22,
+            "hier_level": 0,
+            "human_hash": "input_X800_Y289_W320_H22",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-eerKOB ddaSbG",
+                        "data-error": "false",
+                        "data-testid": "email_input",
+                        "id": "email",
+                        "name": "email",
+                        "placeholder": "Email address",
+                        "type": "text",
+                        "value": ""
+                    },
+                    "backend_node_id": 3645,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 22.0,
+                    "key": "800_289_320_22_",
+                    "tagName": "input",
+                    "text": "",
+                    "width": 320.0,
+                    "x": 800.0,
+                    "y": 289.0
+                },
+                "location": {
+                    "x": 800.0,
+                    "y": 289.0
+                },
+                "size": {
+                    "height": 22.0,
+                    "width": 320.0
+                },
+                "tag_name": "input",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "input",
+            "text": "",
+            "transformed": true,
+            "width": 320,
+            "x": 800,
+            "y": 289
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "label",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "zjUSd4+zexmAB0A6u1oRKw==\n",
+            "height": 16,
+            "hier_level": 0,
+            "human_hash": "label_X800_Y357_W53_H16",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-emmjRN MXPqs",
+                        "data-testid": "text_input_label",
+                        "for": "password"
+                    },
+                    "backend_node_id": 3651,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 16.0,
+                    "key": "800_357_53_16_Password",
+                    "tagName": "label",
+                    "text": "Password",
+                    "width": 53.0,
+                    "x": 800.0,
+                    "y": 357.0
+                },
+                "location": {
+                    "x": 800.0,
+                    "y": 357.0
+                },
+                "size": {
+                    "height": 16.0,
+                    "width": 53.0
+                },
+                "tag_name": "label",
+                "text": "Password"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "label",
+            "text": "Password",
+            "transformed": true,
+            "width": 53,
+            "x": 800,
+            "y": 357
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "4dQZp4oodoaEmzzznmQdeQ==\n",
+            "height": 16,
+            "hier_level": 0,
+            "human_hash": "div_X800_Y357_W320_H16",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-cpmLhU rkwii"
+                    },
+                    "backend_node_id": 3650,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 16.0,
+                    "key": "800_357_320_16_Password",
+                    "tagName": "div",
+                    "text": "Password",
+                    "width": 320.0,
+                    "x": 800.0,
+                    "y": 357.0
+                },
+                "location": {
+                    "x": 800.0,
+                    "y": 357.0
+                },
+                "size": {
+                    "height": 16.0,
+                    "width": 320.0
+                },
+                "tag_name": "div",
+                "text": "Password"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Password",
+            "transformed": true,
+            "width": 320,
+            "x": 800,
+            "y": 357
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "1QgdKnL/SrctiHmuKf3zcw==\n",
+            "height": 64,
+            "hier_level": 0,
+            "human_hash": "div_X784_Y344_W352_H64",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-erNlkL eUszLP sc-dUjcNx iGyanQ",
+                        "data-error": "false"
+                    },
+                    "backend_node_id": 3649,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 64.0,
+                    "key": "784_344_352_64_Password",
+                    "tagName": "div",
+                    "text": "Password",
+                    "width": 352.0,
+                    "x": 784.0,
+                    "y": 344.0
+                },
+                "location": {
+                    "x": 784.0,
+                    "y": 344.0
+                },
+                "size": {
+                    "height": 64.0,
+                    "width": 352.0
+                },
+                "tag_name": "div",
+                "text": "Password"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Password",
+            "transformed": true,
+            "width": 352,
+            "x": 784,
+            "y": 344
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "VQFdeRSXLAQgpjuZIWePKA==\n",
+            "height": 154,
+            "hier_level": 0,
+            "human_hash": "div_X784_Y344_W352_H154",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "text-input sc-lcpuFF FwUNN"
+                    },
+                    "backend_node_id": 3647,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 154.0,
+                    "key": "784_344_352_154_Password   Minimum 8 characters One special character One uppercase and lowercase character One number",
+                    "tagName": "div",
+                    "text": "Password   Minimum 8 characters One special character One uppercase and lowercase character One number",
+                    "width": 352.0,
+                    "x": 784.0,
+                    "y": 344.0
+                },
+                "location": {
+                    "x": 784.0,
+                    "y": 344.0
+                },
+                "size": {
+                    "height": 154.0,
+                    "width": 352.0
+                },
+                "tag_name": "div",
+                "text": "Password   Minimum 8 characters One special character One uppercase and lowercase character One number"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Password   Minimum 8 characters One special character One uppercase and lowercase character One number",
+            "transformed": true,
+            "width": 352,
+            "x": 784,
+            "y": 344
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "zArOZm/yvAqE+W4EbJKtFA==\n",
+            "height": 174,
+            "hier_level": 0,
+            "human_hash": "div_X784_Y344_W352_H174",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-fgITWd fcbWlX"
+                    },
+                    "backend_node_id": 3646,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 174.0,
+                    "key": "784_344_352_174_Password   Minimum 8 characters One special character One uppercase and lowercase character One number",
+                    "tagName": "div",
+                    "text": "Password   Minimum 8 characters One special character One uppercase and lowercase character One number",
+                    "width": 352.0,
+                    "x": 784.0,
+                    "y": 344.0
+                },
+                "location": {
+                    "x": 784.0,
+                    "y": 344.0
+                },
+                "size": {
+                    "height": 174.0,
+                    "width": 352.0
+                },
+                "tag_name": "div",
+                "text": "Password   Minimum 8 characters One special character One uppercase and lowercase character One number"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Password   Minimum 8 characters One special character One uppercase and lowercase character One number",
+            "transformed": true,
+            "width": 352,
+            "x": 784,
+            "y": 344
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "input",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "ln46hqee7nstpYfJEj2mIg==\n",
+            "height": 22,
+            "hier_level": 0,
+            "human_hash": "input_X800_Y373_W320_H22",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-eerKOB ddaSbG",
+                        "data-error": "false",
+                        "data-testid": "text_input",
+                        "id": "password",
+                        "name": "password",
+                        "placeholder": "Password",
+                        "required": "",
+                        "type": "password",
+                        "value": ""
+                    },
+                    "backend_node_id": 3554,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 22.0,
+                    "key": "800_373_320_22_",
+                    "tagName": "input",
+                    "text": "",
+                    "width": 320.0,
+                    "x": 800.0,
+                    "y": 373.0
+                },
+                "location": {
+                    "x": 800.0,
+                    "y": 373.0
+                },
+                "size": {
+                    "height": 22.0,
+                    "width": 320.0
+                },
+                "tag_name": "input",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "input",
+            "text": "",
+            "transformed": true,
+            "width": 320,
+            "x": 800,
+            "y": 373
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "button",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "9nDhkHHxXVL7O6H+IXLlUQ==\n",
+            "height": 24,
+            "hier_level": 0,
+            "human_hash": "button_X1096_Y363_W24_H24",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-FQuPU jSGIaL",
+                        "data-testid": "private_input_toggle"
+                    },
+                    "backend_node_id": 3655,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 24.0,
+                    "key": "1096_363_24_24_",
+                    "tagName": "button",
+                    "text": "",
+                    "width": 24.0,
+                    "x": 1096.0,
+                    "y": 363.0
+                },
+                "location": {
+                    "x": 1096.0,
+                    "y": 363.0
+                },
+                "size": {
+                    "height": 24.0,
+                    "width": 24.0
+                },
+                "tag_name": "button",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "button",
+            "text": "",
+            "transformed": true,
+            "width": 24,
+            "x": 1096,
+            "y": 363
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "span",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "ooRVl/FOardOgGjyDMnasQ==\n",
+            "height": 16,
+            "hier_level": 0,
+            "human_hash": "span_X789_Y418_W342_H16",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-cpHetk sc-nrwXf eAaeCD",
+                        "data-testid": "validation-item-default-min"
+                    },
+                    "backend_node_id": 3661,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 16.0,
+                    "key": "789_418_342_16_Minimum 8 characters",
+                    "tagName": "span",
+                    "text": "Minimum 8 characters",
+                    "width": 342.0,
+                    "x": 789.0,
+                    "y": 418.0
+                },
+                "location": {
+                    "x": 789.0,
+                    "y": 418.0
+                },
+                "size": {
+                    "height": 16.0,
+                    "width": 342.0
+                },
+                "tag_name": "span",
+                "text": "Minimum 8 characters"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "span",
+            "text": "Minimum 8 characters",
+            "transformed": true,
+            "width": 342,
+            "x": 789,
+            "y": 418
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "UTxrhe/fn3qkxrZ8mu7B7A==\n",
+            "height": 80,
+            "hier_level": 0,
+            "human_hash": "div_X784_Y418_W352_H80",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-crNyjn hjPMkg"
+                    },
+                    "backend_node_id": 3660,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 80.0,
+                    "key": "784_418_352_80_Minimum 8 characters One special character One uppercase and lowercase character One number",
+                    "tagName": "div",
+                    "text": "Minimum 8 characters One special character One uppercase and lowercase character One number",
+                    "width": 352.0,
+                    "x": 784.0,
+                    "y": 418.0
+                },
+                "location": {
+                    "x": 784.0,
+                    "y": 418.0
+                },
+                "size": {
+                    "height": 80.0,
+                    "width": 352.0
+                },
+                "tag_name": "div",
+                "text": "Minimum 8 characters One special character One uppercase and lowercase character One number"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Minimum 8 characters One special character One uppercase and lowercase character One number",
+            "transformed": true,
+            "width": 352,
+            "x": 784,
+            "y": 418
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "span",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "rZH1GEDM9zSyCKgi6caRow==\n",
+            "height": 16,
+            "hier_level": 0,
+            "human_hash": "span_X789_Y439_W342_H16",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-cpHetk sc-nrwXf eAaeCD",
+                        "data-testid": "validation-item-default-one_special_char"
+                    },
+                    "backend_node_id": 3589,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 16.0,
+                    "key": "789_439_342_16_One special character",
+                    "tagName": "span",
+                    "text": "One special character",
+                    "width": 342.0,
+                    "x": 789.0,
+                    "y": 439.0
+                },
+                "location": {
+                    "x": 789.0,
+                    "y": 439.0
+                },
+                "size": {
+                    "height": 16.0,
+                    "width": 342.0
+                },
+                "tag_name": "span",
+                "text": "One special character"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "span",
+            "text": "One special character",
+            "transformed": true,
+            "width": 342,
+            "x": 789,
+            "y": 439
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "span",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "nhNEPn0mg82PDP7SdlmkXg==\n",
+            "height": 16,
+            "hier_level": 0,
+            "human_hash": "span_X789_Y460_W342_H16",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-cpHetk sc-nrwXf eAaeCD",
+                        "data-testid": "validation-item-default-one_uppercase_and_lowercase_char"
+                    },
+                    "backend_node_id": 3666,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 16.0,
+                    "key": "789_460_342_16_One uppercase and lowercase character",
+                    "tagName": "span",
+                    "text": "One uppercase and lowercase character",
+                    "width": 342.0,
+                    "x": 789.0,
+                    "y": 460.0
+                },
+                "location": {
+                    "x": 789.0,
+                    "y": 460.0
+                },
+                "size": {
+                    "height": 16.0,
+                    "width": 342.0
+                },
+                "tag_name": "span",
+                "text": "One uppercase and lowercase character"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "span",
+            "text": "One uppercase and lowercase character",
+            "transformed": true,
+            "width": 342,
+            "x": 789,
+            "y": 460
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "span",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "pnI9MGJ7dv/1cYRowX2/+Q==\n",
+            "height": 16,
+            "hier_level": 0,
+            "human_hash": "span_X789_Y480_W342_H16",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-cpHetk sc-nrwXf eAaeCD",
+                        "data-testid": "validation-item-default-one_number"
+                    },
+                    "backend_node_id": 3669,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 16.0,
+                    "key": "789_480_342_16_One number",
+                    "tagName": "span",
+                    "text": "One number",
+                    "width": 342.0,
+                    "x": 789.0,
+                    "y": 480.0
+                },
+                "location": {
+                    "x": 789.0,
+                    "y": 480.0
+                },
+                "size": {
+                    "height": 16.0,
+                    "width": 342.0
+                },
+                "tag_name": "span",
+                "text": "One number"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "span",
+            "text": "One number",
+            "transformed": true,
+            "width": 342,
+            "x": 789,
+            "y": 480
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "a8hjPpWMYFKNDPpP+L86NQ==\n",
+            "height": 62,
+            "hier_level": 0,
+            "human_hash": "div_X750_Y518_W420_H62",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "signup-checkbox false sc-BngTV cNhmLT",
+                        "data-testid": "checkbox_input"
+                    },
+                    "backend_node_id": 3674,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 62.0,
+                    "key": "750_518_420_62_Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .",
+                    "tagName": "div",
+                    "text": "Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .",
+                    "width": 420.0,
+                    "x": 750.0,
+                    "y": 518.0
+                },
+                "location": {
+                    "x": 750.0,
+                    "y": 518.0
+                },
+                "size": {
+                    "height": 62.0,
+                    "width": 420.0
+                },
+                "tag_name": "div",
+                "text": "Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization ."
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .",
+            "transformed": true,
+            "width": 420,
+            "x": 750,
+            "y": 518
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "sIUISVG/GI3LXLqU9Qtylg==\n",
+            "height": 62,
+            "hier_level": 0,
+            "human_hash": "div_X740_Y518_W440_H62",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-jbKcbu bRJGIm"
+                    },
+                    "backend_node_id": 3673,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 62.0,
+                    "key": "740_518_440_62_Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .",
+                    "tagName": "div",
+                    "text": "Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .",
+                    "width": 440.0,
+                    "x": 740.0,
+                    "y": 518.0
+                },
+                "location": {
+                    "x": 740.0,
+                    "y": 518.0
+                },
+                "size": {
+                    "height": 62.0,
+                    "width": 440.0
+                },
+                "tag_name": "div",
+                "text": "Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization ."
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .",
+            "transformed": true,
+            "width": 440,
+            "x": 740,
+            "y": 518
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "JMyihORIqm2NzF4YyKE0xA==\n",
+            "height": 66,
+            "hier_level": 0,
+            "human_hash": "div_X812_Y518_W326_H66",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-byuwlG cjkqZK"
+                    },
+                    "backend_node_id": 3679,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 66.0,
+                    "key": "812_518_326_66_Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .",
+                    "tagName": "div",
+                    "text": "Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .",
+                    "width": 326.0,
+                    "x": 812.0,
+                    "y": 518.0
+                },
+                "location": {
+                    "x": 812.0,
+                    "y": 518.0
+                },
+                "size": {
+                    "height": 66.0,
+                    "width": 326.0
+                },
+                "tag_name": "div",
+                "text": "Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization ."
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .",
+            "transformed": true,
+            "width": 326,
+            "x": 812,
+            "y": 518
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "span",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "zt6eDl1+6xhDZy3Kcw14Iw==\n",
+            "height": 22,
+            "hier_level": 0,
+            "human_hash": "span_X812_Y518_W326_H22",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-cqpYsc gDxDof"
+                    },
+                    "backend_node_id": 3678,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 22.0,
+                    "key": "812_518_326_22_Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .",
+                    "tagName": "span",
+                    "text": "Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .",
+                    "width": 326.0,
+                    "x": 812.0,
+                    "y": 518.0
+                },
+                "location": {
+                    "x": 812.0,
+                    "y": 518.0
+                },
+                "size": {
+                    "height": 22.0,
+                    "width": 326.0
+                },
+                "tag_name": "span",
+                "text": "Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization ."
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "span",
+            "text": "Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .",
+            "transformed": true,
+            "width": 326,
+            "x": 812,
+            "y": 518
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "label",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "I1tVvZRxg81OmSy0Hy05Vw==\n",
+            "height": 62,
+            "hier_level": 0,
+            "human_hash": "label_X782_Y518_W356_H62",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "data-testid": "checkbox_label",
+                        "for": "usResident"
+                    },
+                    "backend_node_id": 3676,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 62.0,
+                    "key": "782_518_356_62_Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .",
+                    "tagName": "label",
+                    "text": "Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .",
+                    "width": 356.0,
+                    "x": 782.0,
+                    "y": 518.0
+                },
+                "location": {
+                    "x": 782.0,
+                    "y": 518.0
+                },
+                "size": {
+                    "height": 62.0,
+                    "width": 356.0
+                },
+                "tag_name": "label",
+                "text": "Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization ."
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "label",
+            "text": "Yes, I am a U.S. Resident, 18 years or older, and agree to the Program Agreement , Privacy Policy  and Auto Debit Authorization .",
+            "transformed": true,
+            "width": 356,
+            "x": 782,
+            "y": 518
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "RBx5UMsbAlTnc5HK4JTWkQ==\n",
+            "height": 16,
+            "hier_level": 0,
+            "human_hash": "a_X812_Y542_W111_H16",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-cCDHgp RSWpw"
+                    },
+                    "backend_node_id": 3682,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 16.0,
+                    "key": "812_542_111_16_Program Agreement",
+                    "tagName": "a",
+                    "text": "Program Agreement",
+                    "width": 111.0,
+                    "x": 812.0,
+                    "y": 542.0
+                },
+                "location": {
+                    "x": 812.0,
+                    "y": 542.0
+                },
+                "size": {
+                    "height": 16.0,
+                    "width": 111.0
+                },
+                "tag_name": "a",
+                "text": "Program Agreement"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Program Agreement",
+            "transformed": true,
+            "width": 111,
+            "x": 812,
+            "y": 542
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "gjVSxaCg70/X7xYsMLLQAQ==\n",
+            "height": 16,
+            "hier_level": 0,
+            "human_hash": "a_X929_Y542_W72_H16",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-cCDHgp RSWpw"
+                    },
+                    "backend_node_id": 3686,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 16.0,
+                    "key": "929_542_72_16_Privacy Policy",
+                    "tagName": "a",
+                    "text": "Privacy Policy",
+                    "width": 72.0,
+                    "x": 929.0,
+                    "y": 542.0
+                },
+                "location": {
+                    "x": 929.0,
+                    "y": 542.0
+                },
+                "size": {
+                    "height": 16.0,
+                    "width": 72.0
+                },
+                "tag_name": "a",
+                "text": "Privacy Policy"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Privacy Policy",
+            "transformed": true,
+            "width": 72,
+            "x": 929,
+            "y": 542
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "froWY8kVMV6xZVpAFN8tRw==\n",
+            "height": 38,
+            "hier_level": 0,
+            "human_hash": "a_X812_Y542_W276_H38",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-cCDHgp RSWpw"
+                    },
+                    "backend_node_id": 3690,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 38.0,
+                    "key": "812_542_276_38_Auto Debit Authorization",
+                    "tagName": "a",
+                    "text": "Auto Debit Authorization",
+                    "width": 276.0,
+                    "x": 812.0,
+                    "y": 542.0
+                },
+                "location": {
+                    "x": 812.0,
+                    "y": 542.0
+                },
+                "size": {
+                    "height": 38.0,
+                    "width": 276.0
+                },
+                "tag_name": "a",
+                "text": "Auto Debit Authorization"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Auto Debit Authorization",
+            "transformed": true,
+            "width": 276,
+            "x": 812,
+            "y": 542
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "p",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "+PS4fDVOrcwnNQPguP11rA==\n",
+            "height": 16,
+            "hier_level": 0,
+            "human_hash": "p_X911_Y705_W97_H16",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-imapFV NIqvi"
+                    },
+                    "backend_node_id": 3708,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 16.0,
+                    "key": "911_705_97_16_Create account",
+                    "tagName": "p",
+                    "text": "Create account",
+                    "width": 97.0,
+                    "x": 911.0,
+                    "y": 705.0
+                },
+                "location": {
+                    "x": 911.0,
+                    "y": 705.0
+                },
+                "size": {
+                    "height": 16.0,
+                    "width": 97.0
+                },
+                "tag_name": "p",
+                "text": "Create account"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "p",
+            "text": "Create account",
+            "transformed": true,
+            "width": 97,
+            "x": 911,
+            "y": 705
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "button",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "nDiaqQaEWsDgMmIZS/tnDw==\n",
+            "height": 44,
+            "hier_level": 0,
+            "human_hash": "button_X850_Y691_W220_H44",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-bscRGj iIcbwm sc-laTMn cCnpkK",
+                        "data-testid": "signup_create_button",
+                        "type": "submit"
+                    },
+                    "backend_node_id": 3706,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 44.0,
+                    "key": "850_691_220_44_Create account",
+                    "tagName": "button",
+                    "text": "Create account",
+                    "width": 220.0,
+                    "x": 850.0,
+                    "y": 691.0
+                },
+                "location": {
+                    "x": 850.0,
+                    "y": 691.0
+                },
+                "size": {
+                    "height": 44.0,
+                    "width": 220.0
+                },
+                "tag_name": "button",
+                "text": "Create account"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "button",
+            "text": "Create account",
+            "transformed": true,
+            "width": 220,
+            "x": 850,
+            "y": 691
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "aOrUyEh9Jb3o5qoUIZ1AyQ==\n",
+            "height": 44,
+            "hier_level": 0,
+            "human_hash": "div_X610_Y691_W700_H44",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-jKAHpi eQoJYD"
+                    },
+                    "backend_node_id": 3574,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 44.0,
+                    "key": "610_691_700_44_Create account",
+                    "tagName": "div",
+                    "text": "Create account",
+                    "width": 700.0,
+                    "x": 610.0,
+                    "y": 691.0
+                },
+                "location": {
+                    "x": 610.0,
+                    "y": 691.0
+                },
+                "size": {
+                    "height": 44.0,
+                    "width": 700.0
+                },
+                "tag_name": "div",
+                "text": "Create account"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Create account",
+            "transformed": true,
+            "width": 700,
+            "x": 610,
+            "y": 691
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "canvas",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "zrkcbiIFzeup/DHbdNLu6g==\n",
+            "height": 44,
+            "hier_level": 0,
+            "human_hash": "canvas_X850_Y691_W220_H44",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "ink",
+                        "height": "0",
+                        "style": "border-radius: inherit; height: 100%; left: 0px; position: absolute; top: 0px; width: 100%;",
+                        "width": "0"
+                    },
+                    "backend_node_id": 3710,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 44.0,
+                    "key": "850_691_220_44_",
+                    "tagName": "canvas",
+                    "text": "",
+                    "width": 220.0,
+                    "x": 850.0,
+                    "y": 691.0
+                },
+                "location": {
+                    "x": 850.0,
+                    "y": 691.0
+                },
+                "size": {
+                    "height": 44.0,
+                    "width": 220.0
+                },
+                "tag_name": "canvas",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "canvas",
+            "text": "",
+            "transformed": true,
+            "width": 220,
+            "x": 850,
+            "y": 691
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "PED6xh7du4K/chlPySoNUw==\n",
+            "height": 32,
+            "hier_level": 0,
+            "human_hash": "div_X731_Y765_W458_H32",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-cClmTo cOvaea",
+                        "data-testid": "recaptcha-branding"
+                    },
+                    "backend_node_id": 3567,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 32.0,
+                    "key": "731_765_458_32_This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+                    "tagName": "div",
+                    "text": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+                    "width": 458.0,
+                    "x": 731.0,
+                    "y": 765.0
+                },
+                "location": {
+                    "x": 731.0,
+                    "y": 765.0
+                },
+                "size": {
+                    "height": 32.0,
+                    "width": 458.0
+                },
+                "tag_name": "div",
+                "text": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply."
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.",
+            "transformed": true,
+            "width": 458,
+            "x": 731,
+            "y": 765
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "6lEzf7Vv6H3HCb0Zo8atgQ==\n",
+            "height": 15,
+            "hier_level": 0,
+            "human_hash": "a_X989_Y783_W64_H15",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "href": "https://policies.google.com/privacy",
+                        "target": "_blank",
+                        "title": "ReCAPTCHA Privacy Policy"
+                    },
+                    "backend_node_id": 3713,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 15.0,
+                    "key": "989_783_64_15_Privacy Policy",
+                    "tagName": "a",
+                    "text": "Privacy Policy",
+                    "width": 64.0,
+                    "x": 989.0,
+                    "y": 783.0
+                },
+                "location": {
+                    "x": 989.0,
+                    "y": 783.0
+                },
+                "size": {
+                    "height": 15.0,
+                    "width": 64.0
+                },
+                "tag_name": "a",
+                "text": "Privacy Policy"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Privacy Policy",
+            "transformed": true,
+            "width": 64,
+            "x": 989,
+            "y": 783
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "sYlIR2053qV0onYsdIGP3g==\n",
+            "height": 15,
+            "hier_level": 0,
+            "human_hash": "a_X1077_Y783_W80_H15",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "href": "https://policies.google.com/terms",
+                        "target": "_blank",
+                        "title": "ReCAPTCHA Terms of Service"
+                    },
+                    "backend_node_id": 3718,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 15.0,
+                    "key": "1077_783_80_15_Terms of Service",
+                    "tagName": "a",
+                    "text": "Terms of Service",
+                    "width": 80.0,
+                    "x": 1077.0,
+                    "y": 783.0
+                },
+                "location": {
+                    "x": 1077.0,
+                    "y": 783.0
+                },
+                "size": {
+                    "height": 15.0,
+                    "width": 80.0
+                },
+                "tag_name": "a",
+                "text": "Terms of Service"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Terms of Service",
+            "transformed": true,
+            "width": 80,
+            "x": 1077,
+            "y": 783
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "img",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "9GJfmvOu/jLwSlS6lWzZow==\n",
+            "height": 20,
+            "hier_level": 0,
+            "human_hash": "img_X896_Y813_W20_H20",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "alt": "Wheelchair icon",
+                        "aria-label": "Open Accessibility Menu",
+                        "class": "sc-iWadT bzLCCp",
+                        "id": "equal-web-toggle",
+                        "role": "button",
+                        "src": "/7553507aaedfc9c47808d00ae519c119.png"
+                    },
+                    "backend_node_id": 3550,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 20.0,
+                    "key": "896_813_20_20_",
+                    "tagName": "img",
+                    "text": "",
+                    "width": 20.0,
+                    "x": 896.0,
+                    "y": 813.0
+                },
+                "location": {
+                    "x": 896.0,
+                    "y": 813.0
+                },
+                "size": {
+                    "height": 20.0,
+                    "width": 20.0
+                },
+                "tag_name": "img",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "img",
+            "text": "",
+            "transformed": true,
+            "width": 20,
+            "x": 896,
+            "y": 813
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "b5VLKZoe2EvPJ5E/qXlTug==\n",
+            "height": 40,
+            "hier_level": 0,
+            "human_hash": "div_X896_Y793_W128_H40",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-hqGPoI eTxoTl",
+                        "data-testid": "accessibility-link"
+                    },
+                    "backend_node_id": 3549,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 40.0,
+                    "key": "896_793_128_40_Accessibility options",
+                    "tagName": "div",
+                    "text": "Accessibility options",
+                    "width": 128.0,
+                    "x": 896.0,
+                    "y": 793.0
+                },
+                "location": {
+                    "x": 896.0,
+                    "y": 793.0
+                },
+                "size": {
+                    "height": 40.0,
+                    "width": 128.0
+                },
+                "tag_name": "div",
+                "text": "Accessibility options"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Accessibility options",
+            "transformed": true,
+            "width": 128,
+            "x": 896,
+            "y": 793
+        }
+    ],
+    "cpu": 0.0,
+    "jank": 0.0,
+    "mem": 0.0,
+    "net": 0.0,
+    "processed": true,
+    "timing": 1.7883892059326172
+}

@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "SMAjwPTPyZxEUESmwS2OLA==\n",
+    "height": 56,
+    "hier_level": 0,
+    "human_hash": "a_X1649_Y18_W45_H56",
+    "human_readable": "a_1649_18_45_56_a_ffffffffffffffffffffffff3fe7202000200022fc7fffffffffffffffffffff_600bb5b2e4d74ff57114363b8a101e42",
+    "image_path": "ZDgzZjk4ZWI0ZWUwNDQyZmQ0MmZkODM5MTQyYmZiYjA.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-nav-item",
+                "data-track-id": "headerLogin",
+                "href": "https://app.acorns.com/"
+            },
+            "backend_node_id": 274,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 56.0,
+            "key": "1649_18_45_56_Log in",
+            "tagName": "a",
+            "text": "Log in",
+            "width": 45.0,
+            "x": 1649.0,
+            "y": 18.0
+        },
+        "location": {
+            "x": 1649.0,
+            "y": 18.0
+        },
+        "size": {
+            "height": 56.0,
+            "width": 45.0
+        },
+        "tag_name": "a",
+        "text": "Log in"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Log in",
+    "transformed": true,
+    "width": 45,
+    "x": 1649,
+    "y": 18
+}

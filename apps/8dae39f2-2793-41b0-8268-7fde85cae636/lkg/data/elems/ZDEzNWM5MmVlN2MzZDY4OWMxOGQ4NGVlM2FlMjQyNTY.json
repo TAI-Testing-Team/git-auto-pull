@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "tArretw+fTagCj7yM4TAvw==\n",
+    "height": 23,
+    "hier_level": 0,
+    "human_hash": "p_X625_Y143_W169_H23",
+    "human_readable": "p_625_143_169_23_p_0000000000000000000000000000000000000000000000000000000000000000_d464382461ea1638eaaf8d3de86454e5",
+    "image_path": "ZDEzNWM5MmVlN2MzZDY4OWMxOGQ4NGVlM2FlMjQyNTY.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nav-submenu-subtitle"
+            },
+            "backend_node_id": 227,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 23.0,
+            "key": "625_143_169_23_Sustainable ESG portfolios",
+            "tagName": "p",
+            "text": "Sustainable ESG portfolios",
+            "width": 169.0,
+            "x": 625.0,
+            "y": 143.0
+        },
+        "location": {
+            "x": 625.0,
+            "y": 143.0
+        },
+        "size": {
+            "height": 23.0,
+            "width": 169.0
+        },
+        "tag_name": "p",
+        "text": "Sustainable ESG portfolios"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "Sustainable ESG portfolios",
+    "transformed": true,
+    "width": 169,
+    "x": 625,
+    "y": 143
+}

@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Mq2buFg1v2M0fGt7ica6jg==\n",
+    "height": 23,
+    "hier_level": 0,
+    "human_hash": "p_X468_Y143_W88_H23",
+    "human_readable": "p_468_143_88_23_p_0000000000000000000000000000000000000000000000000000000000000000_e6f4979430350f7442f9602068867b32",
+    "image_path": "NTkxYmI3Yzg5NDY5YWU3NWQwMmEyYjUyNzM2NjY5NTQ.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nav-submenu-subtitle"
+            },
+            "backend_node_id": 217,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 23.0,
+            "key": "468_143_88_23_Invest for kids",
+            "tagName": "p",
+            "text": "Invest for kids",
+            "width": 88.0,
+            "x": 468.0,
+            "y": 143.0
+        },
+        "location": {
+            "x": 468.0,
+            "y": 143.0
+        },
+        "size": {
+            "height": 23.0,
+            "width": 88.0
+        },
+        "tag_name": "p",
+        "text": "Invest for kids"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "Invest for kids",
+    "transformed": true,
+    "width": 88,
+    "x": 468,
+    "y": 143
+}

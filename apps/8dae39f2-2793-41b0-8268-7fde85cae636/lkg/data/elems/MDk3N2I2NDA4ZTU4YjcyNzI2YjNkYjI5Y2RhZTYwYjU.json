@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "AwGPVW2ZFe6e7WDOSqiYNA==\n",
+    "height": 281,
+    "hier_level": 0,
+    "human_hash": "img_X1082_Y404_W156_H281",
+    "human_readable": "img_1082_404_156_281_img_f9bff1bff03fe03fe073e060c077c07fc07fc0ffc0ff400000000003003d00fd_9d4568c009d203ab10e33ea9953a0264",
+    "image_path": "MDk3N2I2NDA4ZTU4YjcyNzI2YjNkYjI5Y2RhZTYwYjU.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "",
+                "id": "a4-phone-shadow",
+                "src": "https://sqy7rm.media.zestyio.com/Shadow-On-Card.f1cb27a519bdb5b6ed34049a5b86e317.png"
+            },
+            "backend_node_id": 362,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 281.0,
+            "key": "1082_404_156_281_",
+            "tagName": "img",
+            "text": "",
+            "width": 156.0,
+            "x": 1082.0,
+            "y": 404.0
+        },
+        "location": {
+            "x": 1082.0,
+            "y": 404.0
+        },
+        "size": {
+            "height": 281.0,
+            "width": 156.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 156,
+    "x": 1082,
+    "y": 404
+}

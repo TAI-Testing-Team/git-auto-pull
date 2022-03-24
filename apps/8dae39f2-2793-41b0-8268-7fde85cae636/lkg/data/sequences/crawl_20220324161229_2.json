@@ -1,0 +1,544 @@
+[
+    {
+        "hash": "2cde02d55980e4ff7f13f7d2b968c894"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "8CESvE/NJTd+wTw5MMey8Q==\n",
+                "height": 56,
+                "hier_level": 0,
+                "human_hash": "a_X1729_Y18_W151_H56",
+                "human_readable": "a_1729_18_151_56_a_c003c003800180018001800118081ff81ff80ff88001800180018001c003c003_8d5e59a0b84fb3d6f10fd3e1b825deba",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "a5-cta",
+                            "data-track-id": "headerGetStarted",
+                            "href": "https://app.adjust.com/2bfkli_luqqxi?fallback=https%3A%2F%2Facorns.com%2Ftier-signup?key=GOLD"
+                        },
+                        "backend_node_id": 276,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 56.0,
+                        "key": "1729_18_151_56_Get started",
+                        "tagName": "a",
+                        "text": "Get started",
+                        "width": 151.0,
+                        "x": 1729.0,
+                        "y": 18.0
+                    },
+                    "location": {
+                        "x": 1729.0,
+                        "y": 18.0
+                    },
+                    "size": {
+                        "height": 56.0,
+                        "width": 151.0
+                    },
+                    "tag_name": "a",
+                    "text": "Get started"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "fffcfffeffcfff0fe107e307e123e127e30fe30ffe0ffe0fff3ffffdfff0f7f8",
+                "resource-id": "",
+                "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+                "screen_height": 901,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Get started",
+                "transformed": true,
+                "width": 151,
+                "x": 1729,
+                "y": 18
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "NDcyZTg1Zjk1ZjZmYTYxMWRkYjk3ODRjN2E1NGVmZTM"
+    },
+    {
+        "hash": "aa58c6d92a8a41b5e49835e8210f61ab"
+    },
+    {
+        "action_info": {
+            "elem_class": "input",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "input",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "ln46hqee7nstpYfJEj2mIg==\n",
+                "height": 22,
+                "hier_level": 0,
+                "human_hash": "input_X800_Y373_W320_H22",
+                "human_readable": "input_800_373_320_22_input_fffcfffcfffc7ffc7ffc1ffc1ffe1fff1fff1fff1fffffffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "sc-eerKOB ddaSbG",
+                            "data-error": "false",
+                            "data-testid": "text_input",
+                            "id": "password",
+                            "name": "password",
+                            "placeholder": "Password",
+                            "required": "",
+                            "type": "password",
+                            "value": ""
+                        },
+                        "backend_node_id": 2257,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 22.0,
+                        "key": "800_373_320_22_",
+                        "tagName": "input",
+                        "text": "",
+                        "width": 320.0,
+                        "x": 800.0,
+                        "y": 373.0
+                    },
+                    "location": {
+                        "x": 800.0,
+                        "y": 373.0
+                    },
+                    "size": {
+                        "height": 22.0,
+                        "width": 320.0
+                    },
+                    "tag_name": "input",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "ffffffff07e00e700ef00ff00ff00ef00ff00e700ef00ff00e70066000000000",
+                "resource-id": "",
+                "screen_hash": "aa58c6d92a8a41b5e49835e8210f61ab",
+                "screen_height": 901,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "input",
+                "text": "",
+                "transformed": true,
+                "width": 320,
+                "x": 800,
+                "y": 373
+            },
+            "gesture": "text_entry",
+            "text": "aaa"
+        },
+        "elem_hash": "NzE1ZTU4MDdmMDFkMjM3OTliYzBiNDExMzUzZjgwM2Y"
+    },
+    {
+        "hash": "eb14f756bc0e74f32137effa08542165"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "sYlIR2053qV0onYsdIGP3g==\n",
+                "height": 15,
+                "hier_level": 0,
+                "human_hash": "a_X1077_Y783_W80_H15",
+                "human_readable": "a_1077_783_80_15_a_ffffffffffff3fbf3fbfffff8264820082c282c20090ba9c00000000ffffffff_49d95ac810dccf9859ac89b7c9f85a3f",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "href": "https://policies.google.com/terms",
+                            "target": "_blank",
+                            "title": "ReCAPTCHA Terms of Service"
+                        },
+                        "backend_node_id": 2394,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 15.0,
+                        "key": "1077_783_80_15_Terms of Service",
+                        "tagName": "a",
+                        "text": "Terms of Service",
+                        "width": 80.0,
+                        "x": 1077.0,
+                        "y": 783.0
+                    },
+                    "location": {
+                        "x": 1077.0,
+                        "y": 783.0
+                    },
+                    "size": {
+                        "height": 15.0,
+                        "width": 80.0
+                    },
+                    "tag_name": "a",
+                    "text": "Terms of Service"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "ffffffff07e00e700ef00ef00c300cf00ff00e700ef00ff00e70066000000000",
+                "resource-id": "",
+                "screen_hash": "eb14f756bc0e74f32137effa08542165",
+                "screen_height": 901,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Terms of Service",
+                "transformed": true,
+                "width": 80,
+                "x": 1077,
+                "y": 783
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "MTFmZjBiZmI0NjAwOWIwYmEzZTZlZDQxNDNmMjAzNTc"
+    },
+    {
+        "hash": "eb14f756bc0e74f32137effa08542165"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "gjVSxaCg70/X7xYsMLLQAQ==\n",
+                "height": 16,
+                "hier_level": 0,
+                "human_hash": "a_X929_Y542_W72_H16",
+                "human_readable": "a_929_542_72_16_a_ffffffffffff3f973f973f971080088042e242e242e240c0fffe0000fefeffff_5ea62442768a6cedc518d4e2d392d6ab",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "sc-cCDHgp RSWpw"
+                        },
+                        "backend_node_id": 2362,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 16.0,
+                        "key": "929_542_72_16_Privacy Policy",
+                        "tagName": "a",
+                        "text": "Privacy Policy",
+                        "width": 72.0,
+                        "x": 929.0,
+                        "y": 542.0
+                    },
+                    "location": {
+                        "x": 929.0,
+                        "y": 542.0
+                    },
+                    "size": {
+                        "height": 16.0,
+                        "width": 72.0
+                    },
+                    "tag_name": "a",
+                    "text": "Privacy Policy"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "ffffffff07e00e700ef00ef00c300cf00ff00e700ef00ff00e70066000000000",
+                "resource-id": "",
+                "screen_hash": "eb14f756bc0e74f32137effa08542165",
+                "screen_height": 901,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Privacy Policy",
+                "transformed": true,
+                "width": 72,
+                "x": 929,
+                "y": 542
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "NjAyMDIyZGViNDc0ZGFlYzEyOWYxMjdiY2JiZjYzMDY"
+    },
+    {
+        "hash": "aad19266dc885cdae5a9a757e4e6f7a9"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "8v8QoYIe8I4+TN00UiVqZw==\n",
+                "height": 22,
+                "hier_level": 0,
+                "human_hash": "a_X1281_Y164_W24_H22",
+                "human_readable": "a_1281_164_24_22_a_c781c701c627c663c7e3c7e3c7e3e007e007ffffffffffffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "href": "https://www.acorns.com/documents-plain/acorns-privacy-policy-12222021/",
+                            "target": "_blank"
+                        },
+                        "backend_node_id": 2672,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 22.0,
+                        "key": "1281_164_24_22_",
+                        "tagName": "a",
+                        "text": "",
+                        "width": 24.0,
+                        "x": 1281.0,
+                        "y": 164.0
+                    },
+                    "location": {
+                        "x": 1281.0,
+                        "y": 164.0
+                    },
+                    "size": {
+                        "height": 22.0,
+                        "width": 24.0
+                    },
+                    "tag_name": "a",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "0000000007e007e007e007e007e007e007e007e007e007e007e007e000000000",
+                "resource-id": "",
+                "screen_hash": "aad19266dc885cdae5a9a757e4e6f7a9",
+                "screen_height": 901,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "",
+                "transformed": true,
+                "width": 24,
+                "x": 1281,
+                "y": 164
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "ZmY2NjNlMTgxYTY0ODc5ZTc1ODRkYTBjNmQ0NzZlZTk"
+    },
+    {
+        "hash": "aad19266dc885cdae5a9a757e4e6f7a9"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "8v8QoYIe8I4+TN00UiVqZw==\n",
+                "height": 22,
+                "hier_level": 0,
+                "human_hash": "a_X1281_Y164_W24_H22",
+                "human_readable": "a_1281_164_24_22_a_c781c701c627c663c7e3c7e3c7e3e007e007ffffffffffffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "href": "https://www.acorns.com/documents-plain/acorns-privacy-policy-12222021/?_ga=2.932465.1554862586.1648131195-1813885053.1648131195",
+                            "target": "_blank"
+                        },
+                        "backend_node_id": 2672,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 22.0,
+                        "key": "1281_164_24_22_",
+                        "tagName": "a",
+                        "text": "",
+                        "width": 24.0,
+                        "x": 1281.0,
+                        "y": 164.0
+                    },
+                    "location": {
+                        "x": 1281.0,
+                        "y": 164.0
+                    },
+                    "size": {
+                        "height": 22.0,
+                        "width": 24.0
+                    },
+                    "tag_name": "a",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "0000000007e007e007e007e007e007e007e007e007e007e007e007e000000000",
+                "resource-id": "",
+                "screen_hash": "aad19266dc885cdae5a9a757e4e6f7a9",
+                "screen_height": 901,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "",
+                "transformed": true,
+                "width": 24,
+                "x": 1281,
+                "y": 164
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "ZmY2NjNlMTgxYTY0ODc5ZTc1ODRkYTBjNmQ0NzZlZTk"
+    },
+    {
+        "hash": "aad19266dc885cdae5a9a757e4e6f7a9"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "froWY8kVMV6xZVpAFN8tRw==\n",
+                "height": 38,
+                "hier_level": 0,
+                "human_hash": "a_X812_Y542_W276_H38",
+                "human_readable": "a_812_542_276_38_a_fffffffffffffffffffffffffffffffffffffffff7e30000000000000000dfff_4a721f853422086fc584c53d68c1d634",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "sc-cCDHgp RSWpw"
+                        },
+                        "backend_node_id": 2366,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 38.0,
+                        "key": "812_542_276_38_Auto Debit Authorization",
+                        "tagName": "a",
+                        "text": "Auto Debit Authorization",
+                        "width": 276.0,
+                        "x": 812.0,
+                        "y": 542.0
+                    },
+                    "location": {
+                        "x": 812.0,
+                        "y": 542.0
+                    },
+                    "size": {
+                        "height": 38.0,
+                        "width": 276.0
+                    },
+                    "tag_name": "a",
+                    "text": "Auto Debit Authorization"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "0000000007e007e007e007e007e007e007e007e007e007e007e007e000000000",
+                "resource-id": "",
+                "screen_hash": "aad19266dc885cdae5a9a757e4e6f7a9",
+                "screen_height": 901,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Auto Debit Authorization",
+                "transformed": true,
+                "width": 276,
+                "x": 812,
+                "y": 542
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "MzBlNjY5MDYzY2U1Y2UxMzJjZmZlMDBiY2ViYjdiMDY"
+    },
+    {
+        "hash": "aad19266dc885cdae5a9a757e4e6f7a9"
+    }
+]

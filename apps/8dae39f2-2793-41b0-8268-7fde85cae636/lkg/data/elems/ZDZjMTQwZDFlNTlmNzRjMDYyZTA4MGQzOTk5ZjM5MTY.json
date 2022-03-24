@@ -1,0 +1,64 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "z7ijv4ocwuAWT49vFvKqtw==\n",
+    "height": 11,
+    "hier_level": 0,
+    "human_hash": "img_X477_Y148_W87_H11",
+    "human_readable": "img_477_148_87_11_img_0000000000000000000000000000000000000000000000000000000000000000_9d4568c009d203ab10e33ea9953a0264",
+    "image_path": "ZDZjMTQwZDFlNTlmNzRjMDYyZTA4MGQzOTk5ZjM5MTY.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "id": "inline-cnbc-logo",
+                "src": "https://sqy7rm.media.zestyio.com/cnbc-vertical.svg"
+            },
+            "backend_node_id": 268,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 11.0,
+            "key": "477_148_87_11_",
+            "tagName": "img",
+            "text": "",
+            "width": 87.0,
+            "x": 477.0,
+            "y": 148.0
+        },
+        "location": {
+            "x": 477.0,
+            "y": 148.0
+        },
+        "size": {
+            "height": 11.0,
+            "width": 87.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 87,
+    "x": 477,
+    "y": 148
+}

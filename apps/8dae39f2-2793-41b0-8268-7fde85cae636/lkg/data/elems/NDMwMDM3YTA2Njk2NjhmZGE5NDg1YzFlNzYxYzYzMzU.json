@@ -1,0 +1,64 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "HGzSppnJClwJeVpwNqL46g==\n",
+    "height": 46,
+    "hier_level": 0,
+    "human_hash": "img_X1539_Y800_W46_H46",
+    "human_readable": "img_1539_800_46_46_img_00000000010001800ff00ff81ff81ff80ff80ff80ff00ff007e0018000000000_9d4568c009d203ab10e33ea9953a0264",
+    "image_path": "NDMwMDM3YTA2Njk2NjhmZGE5NDg1YzFlNzYxYzYzMzU.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Acorns Logo",
+                "src": "https://sqy7rm.media.zestyio.com/App-Icon.svg"
+            },
+            "backend_node_id": 85,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 46.0,
+            "key": "1539_800_46_46_",
+            "tagName": "img",
+            "text": "",
+            "width": 46.0,
+            "x": 1539.0,
+            "y": 800.0
+        },
+        "location": {
+            "x": 1539.0,
+            "y": 800.0
+        },
+        "size": {
+            "height": 46.0,
+            "width": 46.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 46,
+    "x": 1539,
+    "y": 800
+}

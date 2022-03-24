@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "RHLvXP0cIDihFWsxRwQqSA==\n",
+    "height": 294,
+    "hier_level": 0,
+    "human_hash": "img_X958_Y190_W616_H294",
+    "human_readable": "img_958_190_616_294_img_fc0f3c0fcc0bcc0bcc0fe80fb9ef93efe3ece3ecd3e79bebb3e3c3c383cf13cf_9d4568c009d203ab10e33ea9953a0264",
+    "image_path": "YjgyYTgyNDk2ODE1Mzg2ZmVmMmI2MDIzY2ExYzMxMGQ.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "",
+                "id": "a4-leaves",
+                "src": "https://sqy7rm.media.zestyio.com/Hero-Leaf-Bitcoin-Assets.f1cb27a519bdb5b6ed34049a5b86e317.png"
+            },
+            "backend_node_id": 364,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 294.0,
+            "key": "958_190_616_294_",
+            "tagName": "img",
+            "text": "",
+            "width": 616.0,
+            "x": 958.0,
+            "y": 190.0
+        },
+        "location": {
+            "x": 958.0,
+            "y": 190.0
+        },
+        "size": {
+            "height": 294.0,
+            "width": 616.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 616,
+    "x": 958,
+    "y": 190
+}

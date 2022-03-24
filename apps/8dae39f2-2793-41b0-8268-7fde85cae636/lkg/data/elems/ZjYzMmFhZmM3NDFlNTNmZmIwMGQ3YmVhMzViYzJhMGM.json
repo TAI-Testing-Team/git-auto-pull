@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "0cOv9yIq+GmV/cm0kmlrnw==\n",
+    "height": 99,
+    "hier_level": 0,
+    "human_hash": "p_X396_Y370_W480_H99",
+    "human_readable": "p_396_370_480_99_p_fffffffd00000000ccfbfffffeff041100010101ffffffff7fff003f007f5fff_e1688f6c56cf7247a966c02b42bddd5e",
+    "image_path": "ZjYzMmFhZmM3NDFlNTNmZmIwMGQ3YmVhMzViYzJhMGM.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 357,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 99.0,
+            "key": "396_370_480_99_Invest spare change, bank smarter, add Bits of Bitcoin to your ETF portfolio, and more. Signing up takes minutes!",
+            "tagName": "p",
+            "text": "Invest spare change, bank smarter, add Bits of Bitcoin to your ETF portfolio, and more. Signing up takes minutes!",
+            "width": 480.0,
+            "x": 396.0,
+            "y": 370.0
+        },
+        "location": {
+            "x": 396.0,
+            "y": 370.0
+        },
+        "size": {
+            "height": 99.0,
+            "width": 480.0
+        },
+        "tag_name": "p",
+        "text": "Invest spare change, bank smarter, add Bits of Bitcoin to your ETF portfolio, and more. Signing up takes minutes!"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "Invest spare change, bank smarter, add Bits of Bitcoin to your ETF portfolio, and more. Signing up takes minutes!",
+    "transformed": true,
+    "width": 480,
+    "x": 396,
+    "y": 370
+}

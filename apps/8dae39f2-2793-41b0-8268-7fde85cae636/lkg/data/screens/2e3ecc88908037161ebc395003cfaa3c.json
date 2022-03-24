@@ -1,0 +1,1438 @@
+{
+    "action_info": {
+        "elem_class": "screen",
+        "elem_info": {
+            "class": "screen",
+            "hash": "dzl6E24uvtZG4kM47n16Dg==\n",
+            "height": 901,
+            "hier_level": 0,
+            "human_hash": "screen_X0_Y0_W1920_H901",
+            "human_readable": "screen_0_0_1920_901_screen_fffff3fff17ff9fff3fffa7ffffffffffffffffff42fffdfff8ffe9fffffffdf_9d4568c009d203ab10e33ea9953a0264",
+            "index": -1,
+            "is_transformed": true,
+            "png_hash": "fffff3fff17ff9fff3fffa7ffffffffffffffffff42fffdfff8ffe9fffffffdf",
+            "tag_name": "screen",
+            "text": "",
+            "width": 1920,
+            "x": 0,
+            "y": 0
+        },
+        "gesture": "tap",
+        "text": ""
+    },
+    "all_elems": [
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "html",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "r4yZ67z1GvOviw+4BM0gIg==\n",
+            "height": 901,
+            "hier_level": 0,
+            "human_hash": "html_X0_Y0_W1920_H901",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "lang": "en"
+                    },
+                    "backend_node_id": 2,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 901.0,
+                    "key": "0_0_1920_901_Welcome to Acorns. We\u2019re in the process of making Acorns more accessible. If you need any help navigating our app, please contact our support team at acorns.com/support    Log in to Acorns Email  Password  Forgot password? Show Log In Don't Have An Account?",
+                    "tagName": "html",
+                    "text": "Welcome to Acorns. We\u2019re in the process of making Acorns more accessible. If you need any help navigating our app, please contact our support team at acorns.com/support    Log in to Acorns Email  Password  Forgot password? Show Log In Don't Have An Account?",
+                    "width": 1920.0,
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "size": {
+                    "height": 901.0,
+                    "width": 1920.0
+                },
+                "tag_name": "html",
+                "text": "Welcome to Acorns. We\u2019re in the process of making Acorns more accessible. If you need any help navigating our app, please contact our support team at acorns.com/support    Log in to Acorns Email  Password  Forgot password? Show Log In Don't Have An Account?"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "html",
+            "text": "Welcome to Acorns. We\u2019re in the process of making Acorns more accessible. If you need any help navigating our app, please contact our support team at acorns.com/support    Log in to Acorns Email  Password  Forgot password? Show Log In Don't Have An Account?",
+            "transformed": true,
+            "width": 1920,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "body",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "kKK40m2pIvYgeV6fSLZQPg==\n",
+            "height": 901,
+            "hier_level": 0,
+            "human_hash": "body_X0_Y0_W1920_H901",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {},
+                    "backend_node_id": 18,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 901.0,
+                    "key": "0_0_1920_901_Welcome to Acorns. We\u2019re in the process of making Acorns more accessible. If you need any help navigating our app, please contact our support team at acorns.com/support    Log in to Acorns Email  Password  Forgot password? Show Log In Don't Have An Account?",
+                    "tagName": "body",
+                    "text": "Welcome to Acorns. We\u2019re in the process of making Acorns more accessible. If you need any help navigating our app, please contact our support team at acorns.com/support    Log in to Acorns Email  Password  Forgot password? Show Log In Don't Have An Account?",
+                    "width": 1920.0,
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "size": {
+                    "height": 901.0,
+                    "width": 1920.0
+                },
+                "tag_name": "body",
+                "text": "Welcome to Acorns. We\u2019re in the process of making Acorns more accessible. If you need any help navigating our app, please contact our support team at acorns.com/support    Log in to Acorns Email  Password  Forgot password? Show Log In Don't Have An Account?"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "body",
+            "text": "Welcome to Acorns. We\u2019re in the process of making Acorns more accessible. If you need any help navigating our app, please contact our support team at acorns.com/support    Log in to Acorns Email  Password  Forgot password? Show Log In Don't Have An Account?",
+            "transformed": true,
+            "width": 1920,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "img",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "kMgkJgAb9I1NfHyZ0fc3Ow==\n",
+            "height": 294,
+            "hier_level": 0,
+            "human_hash": "img_X540_Y64_W250_H294",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-blIhvV sc-bYTsla jezbTh",
+                        "src": "/leaves-top.57d9c414.svg"
+                    },
+                    "backend_node_id": 31,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 294.0,
+                    "key": "540_64_250_294_",
+                    "tagName": "img",
+                    "text": "",
+                    "width": 250.0,
+                    "x": 540.0,
+                    "y": 64.0
+                },
+                "location": {
+                    "x": 540.0,
+                    "y": 64.0
+                },
+                "size": {
+                    "height": 294.0,
+                    "width": 250.0
+                },
+                "tag_name": "img",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "img",
+            "text": "",
+            "transformed": true,
+            "width": 250,
+            "x": 540,
+            "y": 64
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "ORFVGqtKFeJhqn+aiOWHqw==\n",
+            "height": 464,
+            "hier_level": 0,
+            "human_hash": "div_X710_Y219_W500_H464",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-gHboQg sc-jtHxuu cxlOHV"
+                    },
+                    "backend_node_id": 41,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 464.0,
+                    "key": "710_219_500_464_Log in to Acorns Email  Password  Forgot password? Show Log In Don't Have An Account?",
+                    "tagName": "div",
+                    "text": "Log in to Acorns Email  Password  Forgot password? Show Log In Don't Have An Account?",
+                    "width": 500.0,
+                    "x": 710.0,
+                    "y": 219.0
+                },
+                "location": {
+                    "x": 710.0,
+                    "y": 219.0
+                },
+                "size": {
+                    "height": 464.0,
+                    "width": 500.0
+                },
+                "tag_name": "div",
+                "text": "Log in to Acorns Email  Password  Forgot password? Show Log In Don't Have An Account?"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Log in to Acorns Email  Password  Forgot password? Show Log In Don't Have An Account?",
+            "transformed": true,
+            "width": 500,
+            "x": 710,
+            "y": 219
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "lYM/Y6rxJlPe9XedZ3BS7A==\n",
+            "height": 901,
+            "hier_level": 0,
+            "human_hash": "div_X0_Y0_W1920_H901",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-cgzHhG dSIFHy"
+                    },
+                    "backend_node_id": 28,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 901.0,
+                    "key": "0_0_1920_901_Log in to Acorns Email  Password  Forgot password? Show Log In Don't Have An Account?",
+                    "tagName": "div",
+                    "text": "Log in to Acorns Email  Password  Forgot password? Show Log In Don't Have An Account?",
+                    "width": 1920.0,
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "location": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "size": {
+                    "height": 901.0,
+                    "width": 1920.0
+                },
+                "tag_name": "div",
+                "text": "Log in to Acorns Email  Password  Forgot password? Show Log In Don't Have An Account?"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Log in to Acorns Email  Password  Forgot password? Show Log In Don't Have An Account?",
+            "transformed": true,
+            "width": 1920,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "img",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "7PWxtok6M/B6f/GroIbWVQ==\n",
+            "height": 287,
+            "hier_level": 0,
+            "human_hash": "img_X1095_Y549_W275_H287",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-blIhvV sc-dlyikq eEdmew",
+                        "src": "/leaves-bottom.4a1a802e.svg"
+                    },
+                    "backend_node_id": 37,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 287.0,
+                    "key": "1095_549_275_287_",
+                    "tagName": "img",
+                    "text": "",
+                    "width": 275.0,
+                    "x": 1095.0,
+                    "y": 549.0
+                },
+                "location": {
+                    "x": 1095.0,
+                    "y": 549.0
+                },
+                "size": {
+                    "height": 287.0,
+                    "width": 275.0
+                },
+                "tag_name": "img",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "img",
+            "text": "",
+            "transformed": true,
+            "width": 275,
+            "x": 1095,
+            "y": 549
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "img",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "OSIELlIBqF3wNhajf9uvag==\n",
+            "height": 45,
+            "hier_level": 0,
+            "human_hash": "img_X941_Y259_W38_H45",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "alt": "Acorns",
+                        "src": "/acorns-logo.9bec8634.svg"
+                    },
+                    "backend_node_id": 44,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 45.0,
+                    "key": "941_259_38_45_",
+                    "tagName": "img",
+                    "text": "",
+                    "width": 38.0,
+                    "x": 941.0,
+                    "y": 259.0
+                },
+                "location": {
+                    "x": 941.0,
+                    "y": 259.0
+                },
+                "size": {
+                    "height": 45.0,
+                    "width": 38.0
+                },
+                "tag_name": "img",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "img",
+            "text": "",
+            "transformed": true,
+            "width": 38,
+            "x": 941,
+            "y": 259
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "NnTgqIFA8q99Ab7eRumH9g==\n",
+            "height": 45,
+            "hier_level": 0,
+            "human_hash": "div_X760_Y259_W400_H45",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-fFTYTi bbpTbE"
+                    },
+                    "backend_node_id": 43,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 45.0,
+                    "key": "760_259_400_45_",
+                    "tagName": "div",
+                    "text": "",
+                    "width": 400.0,
+                    "x": 760.0,
+                    "y": 259.0
+                },
+                "location": {
+                    "x": 760.0,
+                    "y": 259.0
+                },
+                "size": {
+                    "height": 45.0,
+                    "width": 400.0
+                },
+                "tag_name": "div",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "",
+            "transformed": true,
+            "width": 400,
+            "x": 760,
+            "y": 259
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "HCA1BmpQ2C7MM/UHYcFYhw==\n",
+            "height": 82,
+            "hier_level": 0,
+            "human_hash": "div_X760_Y259_W400_H82",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-glUWqk etshLE"
+                    },
+                    "backend_node_id": 42,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 82.0,
+                    "key": "760_259_400_82_Log in to Acorns",
+                    "tagName": "div",
+                    "text": "Log in to Acorns",
+                    "width": 400.0,
+                    "x": 760.0,
+                    "y": 259.0
+                },
+                "location": {
+                    "x": 760.0,
+                    "y": 259.0
+                },
+                "size": {
+                    "height": 82.0,
+                    "width": 400.0
+                },
+                "tag_name": "div",
+                "text": "Log in to Acorns"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Log in to Acorns",
+            "transformed": true,
+            "width": 400,
+            "x": 760,
+            "y": 259
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "h2",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "1puWbFFI6ShegEYQyidu/A==\n",
+            "height": 37,
+            "hier_level": 0,
+            "human_hash": "h2_X760_Y304_W400_H37",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-esOvli sc-bTiqRo gJPMca"
+                    },
+                    "backend_node_id": 45,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 37.0,
+                    "key": "760_304_400_37_Log in to Acorns",
+                    "tagName": "h2",
+                    "text": "Log in to Acorns",
+                    "width": 400.0,
+                    "x": 760.0,
+                    "y": 304.0
+                },
+                "location": {
+                    "x": 760.0,
+                    "y": 304.0
+                },
+                "size": {
+                    "height": 37.0,
+                    "width": 400.0
+                },
+                "tag_name": "h2",
+                "text": "Log in to Acorns"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "h2",
+            "text": "Log in to Acorns",
+            "transformed": true,
+            "width": 400,
+            "x": 760,
+            "y": 304
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "label",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "HexSMvouHQe0wrJ9AwqB7w==\n",
+            "height": 22,
+            "hier_level": 0,
+            "human_hash": "label_X760_Y341_W400_H22",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-jrIrqw gcMabo",
+                        "data-testid": "text_input_label",
+                        "for": "email"
+                    },
+                    "backend_node_id": 49,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 22.0,
+                    "key": "760_341_400_22_Email",
+                    "tagName": "label",
+                    "text": "Email",
+                    "width": 400.0,
+                    "x": 760.0,
+                    "y": 341.0
+                },
+                "location": {
+                    "x": 760.0,
+                    "y": 341.0
+                },
+                "size": {
+                    "height": 22.0,
+                    "width": 400.0
+                },
+                "tag_name": "label",
+                "text": "Email"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "label",
+            "text": "Email",
+            "transformed": true,
+            "width": 400,
+            "x": 760,
+            "y": 341
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "C551jMDGwoS3FaUVWD6b5g==\n",
+            "height": 104,
+            "hier_level": 0,
+            "human_hash": "div_X760_Y341_W400_H104",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-gPzReC fXVykH"
+                    },
+                    "backend_node_id": 48,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 104.0,
+                    "key": "760_341_400_104_Email",
+                    "tagName": "div",
+                    "text": "Email",
+                    "width": 400.0,
+                    "x": 760.0,
+                    "y": 341.0
+                },
+                "location": {
+                    "x": 760.0,
+                    "y": 341.0
+                },
+                "size": {
+                    "height": 104.0,
+                    "width": 400.0
+                },
+                "tag_name": "div",
+                "text": "Email"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Email",
+            "transformed": true,
+            "width": 400,
+            "x": 760,
+            "y": 341
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "form",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "i/zraKpEgKMl+1ju34VqTA==\n",
+            "height": 270,
+            "hier_level": 0,
+            "human_hash": "form_X760_Y341_W400_H270",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-dXLFzO ipJHQz",
+                        "data-id": "login-form",
+                        "data-testid": "login_form",
+                        "novalidate": ""
+                    },
+                    "backend_node_id": 47,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 270.0,
+                    "key": "760_341_400_270_Email  Password  Forgot password? Show Log In",
+                    "tagName": "form",
+                    "text": "Email  Password  Forgot password? Show Log In",
+                    "width": 400.0,
+                    "x": 760.0,
+                    "y": 341.0
+                },
+                "location": {
+                    "x": 760.0,
+                    "y": 341.0
+                },
+                "size": {
+                    "height": 270.0,
+                    "width": 400.0
+                },
+                "tag_name": "form",
+                "text": "Email  Password  Forgot password? Show Log In"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "form",
+            "text": "Email  Password  Forgot password? Show Log In",
+            "transformed": true,
+            "width": 400,
+            "x": 760,
+            "y": 341
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "input",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "grd426QcuIfTdgAdxzjeRw==\n",
+            "height": 44,
+            "hier_level": 0,
+            "human_hash": "input_X760_Y371_W400_H44",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-kXeGPI fhFoLt",
+                        "data-testid": "text_input",
+                        "id": "email",
+                        "label": "Email",
+                        "name": "email",
+                        "placeholder": "name@acorns.com",
+                        "type": "email",
+                        "value": ""
+                    },
+                    "backend_node_id": 51,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 44.0,
+                    "key": "760_371_400_44_",
+                    "tagName": "input",
+                    "text": "",
+                    "width": 400.0,
+                    "x": 760.0,
+                    "y": 371.0
+                },
+                "location": {
+                    "x": 760.0,
+                    "y": 371.0
+                },
+                "size": {
+                    "height": 44.0,
+                    "width": 400.0
+                },
+                "tag_name": "input",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "input",
+            "text": "",
+            "transformed": true,
+            "width": 400,
+            "x": 760,
+            "y": 371
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "label",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "I+CYIghOp2iOLMD6cQlVFA==\n",
+            "height": 22,
+            "hier_level": 0,
+            "human_hash": "label_X760_Y445_W400_H22",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-jrIrqw gcMabo",
+                        "data-testid": "text_input_label",
+                        "for": "password"
+                    },
+                    "backend_node_id": 32,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 22.0,
+                    "key": "760_445_400_22_Password",
+                    "tagName": "label",
+                    "text": "Password",
+                    "width": 400.0,
+                    "x": 760.0,
+                    "y": 445.0
+                },
+                "location": {
+                    "x": 760.0,
+                    "y": 445.0
+                },
+                "size": {
+                    "height": 22.0,
+                    "width": 400.0
+                },
+                "tag_name": "label",
+                "text": "Password"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "label",
+            "text": "Password",
+            "transformed": true,
+            "width": 400,
+            "x": 760,
+            "y": 445
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "tBIso4grlbxmKB1ht2XC8w==\n",
+            "height": 122,
+            "hier_level": 0,
+            "human_hash": "div_X760_Y445_W400_H122",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-dxZgTM llIyKn"
+                    },
+                    "backend_node_id": 52,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 122.0,
+                    "key": "760_445_400_122_Password  Forgot password? Show",
+                    "tagName": "div",
+                    "text": "Password  Forgot password? Show",
+                    "width": 400.0,
+                    "x": 760.0,
+                    "y": 445.0
+                },
+                "location": {
+                    "x": 760.0,
+                    "y": 445.0
+                },
+                "size": {
+                    "height": 122.0,
+                    "width": 400.0
+                },
+                "tag_name": "div",
+                "text": "Password  Forgot password? Show"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Password  Forgot password? Show",
+            "transformed": true,
+            "width": 400,
+            "x": 760,
+            "y": 445
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "input",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "wd1TaMSTa/aM7VbRiLzNSw==\n",
+            "height": 44,
+            "hier_level": 0,
+            "human_hash": "input_X760_Y475_W400_H44",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-kXeGPI cVupsv",
+                        "data-testid": "text_input",
+                        "id": "password",
+                        "label": "Password",
+                        "name": "password",
+                        "placeholder": "\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf",
+                        "type": "password",
+                        "value": ""
+                    },
+                    "backend_node_id": 38,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 44.0,
+                    "key": "760_475_400_44_",
+                    "tagName": "input",
+                    "text": "",
+                    "width": 400.0,
+                    "x": 760.0,
+                    "y": 475.0
+                },
+                "location": {
+                    "x": 760.0,
+                    "y": 475.0
+                },
+                "size": {
+                    "height": 44.0,
+                    "width": 400.0
+                },
+                "tag_name": "input",
+                "text": ""
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "input",
+            "text": "",
+            "transformed": true,
+            "width": 400,
+            "x": 760,
+            "y": 475
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "a",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "sbpkAS7ZYzNPqr4ZVQB2pw==\n",
+            "height": 14,
+            "hier_level": 0,
+            "human_hash": "a_X760_Y523_W98_H14",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "href": "/forgot-password"
+                    },
+                    "backend_node_id": 56,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 14.0,
+                    "key": "760_523_98_14_Forgot password?",
+                    "tagName": "a",
+                    "text": "Forgot password?",
+                    "width": 98.0,
+                    "x": 760.0,
+                    "y": 523.0
+                },
+                "location": {
+                    "x": 760.0,
+                    "y": 523.0
+                },
+                "size": {
+                    "height": 14.0,
+                    "width": 98.0
+                },
+                "tag_name": "a",
+                "text": "Forgot password?"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "a",
+            "text": "Forgot password?",
+            "transformed": true,
+            "width": 98,
+            "x": 760,
+            "y": 523
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "YnMmF5xU2BSCUdZAhaytDQ==\n",
+            "height": 14,
+            "hier_level": 0,
+            "human_hash": "div_X760_Y523_W400_H14",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-ugnQR kAERuT",
+                        "data-testid": "text_input_help_text"
+                    },
+                    "backend_node_id": 55,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 14.0,
+                    "key": "760_523_400_14_Forgot password?",
+                    "tagName": "div",
+                    "text": "Forgot password?",
+                    "width": 400.0,
+                    "x": 760.0,
+                    "y": 523.0
+                },
+                "location": {
+                    "x": 760.0,
+                    "y": 523.0
+                },
+                "size": {
+                    "height": 14.0,
+                    "width": 400.0
+                },
+                "tag_name": "div",
+                "text": "Forgot password?"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Forgot password?",
+            "transformed": true,
+            "width": 400,
+            "x": 760,
+            "y": 523
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "BDSS74ypoJMPz6hhUoH0IA==\n",
+            "height": 42,
+            "hier_level": 0,
+            "human_hash": "div_X1100_Y475_W50_H42",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-iomxrj bNoolq",
+                        "data-testid": "private_input_toggle"
+                    },
+                    "backend_node_id": 58,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 42.0,
+                    "key": "1100_475_50_42_Show",
+                    "tagName": "div",
+                    "text": "Show",
+                    "width": 50.0,
+                    "x": 1100.0,
+                    "y": 475.0
+                },
+                "location": {
+                    "x": 1100.0,
+                    "y": 475.0
+                },
+                "size": {
+                    "height": 42.0,
+                    "width": 50.0
+                },
+                "tag_name": "div",
+                "text": "Show"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Show",
+            "transformed": true,
+            "width": 50,
+            "x": 1100,
+            "y": 475
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "button",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "o9xd/rGhZ2Cn+c18Vb7OtA==\n",
+            "height": 44,
+            "hier_level": 0,
+            "human_hash": "button_X760_Y566_W400_H44",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-fOKMvo dlcDyC sc-ckYZGd igIZTq",
+                        "data-testid": "button",
+                        "disabled": "",
+                        "type": "submit"
+                    },
+                    "backend_node_id": 60,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 44.0,
+                    "key": "760_566_400_44_Log In",
+                    "tagName": "button",
+                    "text": "Log In",
+                    "width": 400.0,
+                    "x": 760.0,
+                    "y": 566.0
+                },
+                "location": {
+                    "x": 760.0,
+                    "y": 566.0
+                },
+                "size": {
+                    "height": 44.0,
+                    "width": 400.0
+                },
+                "tag_name": "button",
+                "text": "Log In"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "button",
+            "text": "Log In",
+            "transformed": true,
+            "width": 400,
+            "x": 760,
+            "y": 566
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "button",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "bAl3TNmC8l1bPOta+mA/zQ==\n",
+            "height": 16,
+            "hier_level": 0,
+            "human_hash": "button_X881_Y626_W158_H16",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-igwadP igGxIO"
+                    },
+                    "backend_node_id": 63,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 16.0,
+                    "key": "881_626_158_16_Don't Have An Account?",
+                    "tagName": "button",
+                    "text": "Don't Have An Account?",
+                    "width": 158.0,
+                    "x": 881.0,
+                    "y": 626.0
+                },
+                "location": {
+                    "x": 881.0,
+                    "y": 626.0
+                },
+                "size": {
+                    "height": 16.0,
+                    "width": 158.0
+                },
+                "tag_name": "button",
+                "text": "Don't Have An Account?"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "button",
+            "text": "Don't Have An Account?",
+            "transformed": true,
+            "width": 158,
+            "x": 881,
+            "y": 626
+        },
+        {
+            "behavior": "",
+            "checkable": false,
+            "class": "div",
+            "clickable": true,
+            "content-desc": "",
+            "enabled": true,
+            "focusable": true,
+            "focused": false,
+            "hash": "uOJhthUXS3X1QrXdldZQUQ==\n",
+            "height": 16,
+            "hier_level": 0,
+            "human_hash": "div_X760_Y626_W400_H16",
+            "internal": {
+                "elem_dict": {
+                    "attributes": {
+                        "class": "sc-bIKvTM iEitbX"
+                    },
+                    "backend_node_id": 62,
+                    "flags": {
+                        "checkable": false,
+                        "clickable": true,
+                        "enabled": true,
+                        "focusable": true,
+                        "focused": false,
+                        "scrollable": false
+                    },
+                    "height": 16.0,
+                    "key": "760_626_400_16_Don't Have An Account?",
+                    "tagName": "div",
+                    "text": "Don't Have An Account?",
+                    "width": 400.0,
+                    "x": 760.0,
+                    "y": 626.0
+                },
+                "location": {
+                    "x": 760.0,
+                    "y": 626.0
+                },
+                "size": {
+                    "height": 16.0,
+                    "width": 400.0
+                },
+                "tag_name": "div",
+                "text": "Don't Have An Account?"
+            },
+            "is_transformed": true,
+            "package": "",
+            "password": false,
+            "resource-id": "",
+            "screen_height": 901,
+            "screen_width": 1920,
+            "scrollable": false,
+            "tag_name": "div",
+            "text": "Don't Have An Account?",
+            "transformed": true,
+            "width": 400,
+            "x": 760,
+            "y": 626
+        }
+    ],
+    "cpu": 0,
+    "jank": 0,
+    "mem": 0,
+    "net": 0,
+    "processed": true,
+    "timing": 0
+}

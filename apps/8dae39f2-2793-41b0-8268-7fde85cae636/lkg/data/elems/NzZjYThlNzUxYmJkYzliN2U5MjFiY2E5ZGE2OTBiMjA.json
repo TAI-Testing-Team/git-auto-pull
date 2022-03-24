@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "ohNJCqpikF59s54VfCK3PQ==\n",
+    "height": 23,
+    "hier_level": 0,
+    "human_hash": "p_X863_Y143_W160_H23",
+    "human_readable": "p_863_143_160_23_p_0000000000000000000000000000000000000000000000000000000000000000_f876e395550fae76aa4ee5fa23eeac3c",
+    "image_path": "NzZjYThlNzUxYmJkYzliN2U5MjFiY2E5ZGE2OTBiMjA.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nav-submenu-subtitle"
+            },
+            "backend_node_id": 239,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 23.0,
+            "key": "863_143_160_23_Bitcoin ETF",
+            "tagName": "p",
+            "text": "Bitcoin ETF",
+            "width": 160.0,
+            "x": 863.0,
+            "y": 143.0
+        },
+        "location": {
+            "x": 863.0,
+            "y": 143.0
+        },
+        "size": {
+            "height": 23.0,
+            "width": 160.0
+        },
+        "tag_name": "p",
+        "text": "Bitcoin ETF"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "Bitcoin ETF",
+    "transformed": true,
+    "width": 160,
+    "x": 863,
+    "y": 143
+}

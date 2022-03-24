@@ -1,0 +1,544 @@
+[
+    {
+        "hash": "2cde02d55980e4ff7f13f7d2b968c894"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "Hb+f+TtsVPAea1tpkh+8hQ==\n",
+                "height": 91,
+                "hier_level": 0,
+                "human_hash": "a_X538_Y0_W51_H91",
+                "human_readable": "a_538_0_51_91_a_ffffffffffffffffffffffff1bbf00002000fff8ffffffffffffffffffffffff_7ee80bbe30ee6605d5f9ad3113611564",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "header-nav-item",
+                            "data-track-id": "redesignedHeaderPricing",
+                            "href": "/pricing"
+                        },
+                        "backend_node_id": 77,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 91.0,
+                        "key": "538_0_51_91_Pricing",
+                        "tagName": "a",
+                        "text": "Pricing",
+                        "width": 51.0,
+                        "x": 538.0,
+                        "y": 0.0
+                    },
+                    "location": {
+                        "x": 538.0,
+                        "y": 0.0
+                    },
+                    "size": {
+                        "height": 91.0,
+                        "width": 51.0
+                    },
+                    "tag_name": "a",
+                    "text": "Pricing"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "fffcfffeffcfff0fe107e307e123e127e30fe30ffe0ffe0fff3ffffdfff0f7f8",
+                "resource-id": "",
+                "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+                "screen_height": 901,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Pricing",
+                "transformed": true,
+                "width": 51,
+                "x": 538,
+                "y": 0
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "OGI1NGU4ZGJmMzdiYzZmODQ3NzZjNjFhZWM5ODliMGQ"
+    },
+    {
+        "hash": "90ecebee0e08fc9e81e77cb47aff0c60"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "2At9oxDJGg3Jyvg1ZMeVqQ==\n",
+                "height": 39,
+                "hier_level": 0,
+                "human_hash": "a_X1763_Y804_W102_H39",
+                "human_readable": "a_1763_804_102_39_a_1ff83ffc7ffe7ffe7ffe7ffeffffffffffffffff7ffe7ffe7ffe7ffe3ffc1ff8_8d5e59a0b84fb3d6f10fd3e1b825deba",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "sticky-action-cta md-703-track hide-on-mobile",
+                            "data-track-id": "stickyActionCtaDesktop",
+                            "href": "https://app.adjust.com/2bfkli_luqqxi?fallback=https://www.acorns.com/tier-signup?key=GOLD"
+                        },
+                        "backend_node_id": 2479,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 39.0,
+                        "key": "1763_804_102_39_Get started",
+                        "tagName": "a",
+                        "text": "Get started",
+                        "width": 102.0,
+                        "x": 1763.0,
+                        "y": 804.0
+                    },
+                    "location": {
+                        "x": 1763.0,
+                        "y": 804.0
+                    },
+                    "size": {
+                        "height": 39.0,
+                        "width": 102.0
+                    },
+                    "tag_name": "a",
+                    "text": "Get started"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "fffcfffc9003fc3ef81ffe1ff9ffedf7eff7eff7eff7e810efffeff0eff0eff0",
+                "resource-id": "",
+                "screen_hash": "90ecebee0e08fc9e81e77cb47aff0c60",
+                "screen_height": 901,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Get started",
+                "transformed": true,
+                "width": 102,
+                "x": 1763,
+                "y": 804
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "MjJmOTM3NWIwOTJmNTc1OWRhODhhZGUwYzNkMWYyMmU"
+    },
+    {
+        "hash": "aa58c6d92a8a41b5e49835e8210f61ab"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "froWY8kVMV6xZVpAFN8tRw==\n",
+                "height": 38,
+                "hier_level": 0,
+                "human_hash": "a_X812_Y542_W276_H38",
+                "human_readable": "a_812_542_276_38_a_ffffffbd0000000000000010ffffffffffffffffffff0fff0fff0fff07ff0fff_4a721f853422086fc584c53d68c1d634",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "sc-cCDHgp RSWpw"
+                        },
+                        "backend_node_id": 3690,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 38.0,
+                        "key": "812_542_276_38_Auto Debit Authorization",
+                        "tagName": "a",
+                        "text": "Auto Debit Authorization",
+                        "width": 276.0,
+                        "x": 812.0,
+                        "y": 542.0
+                    },
+                    "location": {
+                        "x": 812.0,
+                        "y": 542.0
+                    },
+                    "size": {
+                        "height": 38.0,
+                        "width": 276.0
+                    },
+                    "tag_name": "a",
+                    "text": "Auto Debit Authorization"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "ffffffff07e00e700ef00ff00ff00ef00ff00e700ef00ff00e70066000000000",
+                "resource-id": "",
+                "screen_hash": "aa58c6d92a8a41b5e49835e8210f61ab",
+                "screen_height": 901,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Auto Debit Authorization",
+                "transformed": true,
+                "width": 276,
+                "x": 812,
+                "y": 542
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "MDZmMjQ0ZTE3MjY5ZTBkYjg2OWU5MjU4YWJkOGViYTA"
+    },
+    {
+        "hash": "aad19266dc885cdae5a9a757e4e6f7a9"
+    },
+    {
+        "action_info": {
+            "elem_class": "a",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "a",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "RBx5UMsbAlTnc5HK4JTWkQ==\n",
+                "height": 16,
+                "hier_level": 0,
+                "human_hash": "a_X812_Y542_W111_H16",
+                "human_readable": "a_812_542_111_16_a_0000000000000000000000000000000000000000000000000000000000000000_602f98da79f640878e81a36e1c4d59f8",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "sc-cCDHgp RSWpw"
+                        },
+                        "backend_node_id": 3682,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 16.0,
+                        "key": "812_542_111_16_Program Agreement",
+                        "tagName": "a",
+                        "text": "Program Agreement",
+                        "width": 111.0,
+                        "x": 812.0,
+                        "y": 542.0
+                    },
+                    "location": {
+                        "x": 812.0,
+                        "y": 542.0
+                    },
+                    "size": {
+                        "height": 16.0,
+                        "width": 111.0
+                    },
+                    "tag_name": "a",
+                    "text": "Program Agreement"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "0000000007e007e007e007e007e007e007e007e007e007e007e007e000000000",
+                "resource-id": "",
+                "screen_hash": "aad19266dc885cdae5a9a757e4e6f7a9",
+                "screen_height": 901,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "a",
+                "text": "Program Agreement",
+                "transformed": true,
+                "width": 111,
+                "x": 812,
+                "y": 542
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "YjlkM2RmYzcwZDgyNmYxNjFiMjU4ZGE3NGRlM2IxYmI"
+    },
+    {
+        "hash": "aad19266dc885cdae5a9a757e4e6f7a9"
+    },
+    {
+        "action_info": {
+            "elem_class": "button",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "button",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "nDiaqQaEWsDgMmIZS/tnDw==\n",
+                "height": 44,
+                "hier_level": 0,
+                "human_hash": "button_X850_Y691_W220_H44",
+                "human_readable": "button_850_691_220_44_button_fffffffffffffffffffffffffffffffff81ff81ff81ff81ffc3fffffffffffff_22bf74a4691544dff195a11e00c7b62c",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "sc-bscRGj iIcbwm sc-laTMn cCnpkK",
+                            "data-testid": "signup_create_button",
+                            "type": "submit"
+                        },
+                        "backend_node_id": 3706,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 44.0,
+                        "key": "850_691_220_44_Create account",
+                        "tagName": "button",
+                        "text": "Create account",
+                        "width": 220.0,
+                        "x": 850.0,
+                        "y": 691.0
+                    },
+                    "location": {
+                        "x": 850.0,
+                        "y": 691.0
+                    },
+                    "size": {
+                        "height": 44.0,
+                        "width": 220.0
+                    },
+                    "tag_name": "button",
+                    "text": "Create account"
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "0000000007e007e007e007e007e007e007e007e007e007e007e007e000000000",
+                "resource-id": "",
+                "screen_hash": "aad19266dc885cdae5a9a757e4e6f7a9",
+                "screen_height": 901,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "button",
+                "text": "Create account",
+                "transformed": true,
+                "width": 220,
+                "x": 850,
+                "y": 691
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "MDAwOTEzZTJmZTNmMzg2N2UxMGYwOTdkY2JkYTJjNjc"
+    },
+    {
+        "hash": "a62644ff8ee5f71537f0f922970115a4"
+    },
+    {
+        "action_info": {
+            "elem_class": "input",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "input",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "ML2J+kEjELCUsuwmZbHqeA==\n",
+                "height": 22,
+                "hier_level": 0,
+                "human_hash": "input_X800_Y289_W320_H22",
+                "human_readable": "input_800_289_320_22_input_ffffffffffff0fff1fff07ff07ff07ff07ff07ff07ffffffffffffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "sc-eerKOB ddaSbG",
+                            "data-error": "false",
+                            "data-testid": "email_input",
+                            "id": "email",
+                            "name": "email",
+                            "placeholder": "Email address",
+                            "type": "text",
+                            "value": ""
+                        },
+                        "backend_node_id": 3645,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 22.0,
+                        "key": "800_289_320_22_",
+                        "tagName": "input",
+                        "text": "",
+                        "width": 320.0,
+                        "x": 800.0,
+                        "y": 289.0
+                    },
+                    "location": {
+                        "x": 800.0,
+                        "y": 289.0
+                    },
+                    "size": {
+                        "height": 22.0,
+                        "width": 320.0
+                    },
+                    "tag_name": "input",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "ffffffff07e00e700ef00ff00ff00ef00ff00e700ef00ff00e70066000000000",
+                "resource-id": "",
+                "screen_hash": "a62644ff8ee5f71537f0f922970115a4",
+                "screen_height": 901,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "input",
+                "text": "",
+                "transformed": true,
+                "width": 320,
+                "x": 800,
+                "y": 289
+            },
+            "gesture": "text_entry",
+            "text": "foo"
+        },
+        "elem_hash": "NDViYTI1MTk3NWJhM2UyYzVhYmM2MTA0NjI3NWE2YzQ"
+    },
+    {
+        "hash": "b4a88eab4d74e3d40e590e8a9961a57b"
+    },
+    {
+        "action_info": {
+            "elem_class": "button",
+            "elem_info": {
+                "behavior": "",
+                "checkable": false,
+                "class": "button",
+                "clickable": true,
+                "content-desc": "",
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "hash": "9nDhkHHxXVL7O6H+IXLlUQ==\n",
+                "height": 24,
+                "hier_level": 0,
+                "human_hash": "button_X1096_Y363_W24_H24",
+                "human_readable": "button_1096_363_24_24_button_fffffffffffffc1ff00fe3c7cc338c399c31cc33e3c7f00ff83fffffffffffff_9d4568c009d203ab10e33ea9953a0264",
+                "index": -1,
+                "internal": {
+                    "elem_dict": {
+                        "attributes": {
+                            "class": "sc-FQuPU jSGIaL",
+                            "data-testid": "private_input_toggle"
+                        },
+                        "backend_node_id": 3655,
+                        "flags": {
+                            "checkable": false,
+                            "clickable": true,
+                            "enabled": true,
+                            "focusable": true,
+                            "focused": false,
+                            "scrollable": false
+                        },
+                        "height": 24.0,
+                        "key": "1096_363_24_24_",
+                        "tagName": "button",
+                        "text": "",
+                        "width": 24.0,
+                        "x": 1096.0,
+                        "y": 363.0
+                    },
+                    "location": {
+                        "x": 1096.0,
+                        "y": 363.0
+                    },
+                    "size": {
+                        "height": 24.0,
+                        "width": 24.0
+                    },
+                    "tag_name": "button",
+                    "text": ""
+                },
+                "is_transformed": true,
+                "package": "",
+                "password": false,
+                "png_hash": "ffffffff07e00e700ef00ff00ef00ef00ff00e700ef00ff00e70066000000000",
+                "resource-id": "",
+                "screen_hash": "b4a88eab4d74e3d40e590e8a9961a57b",
+                "screen_height": 901,
+                "screen_width": 1920,
+                "scrollable": false,
+                "tag_name": "button",
+                "text": "",
+                "transformed": true,
+                "width": 24,
+                "x": 1096,
+                "y": 363
+            },
+            "gesture": "tap",
+            "text": ""
+        },
+        "elem_hash": "ZGYxZTMyZGM5NzVkNGM0YjI3N2ZkZGNhMTAxZWY3YWQ"
+    },
+    {
+        "hash": "d2647c209751abee88a9886a5db52815"
+    }
+]

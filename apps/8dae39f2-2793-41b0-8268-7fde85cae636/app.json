@@ -1,0 +1,10 @@
+{
+    "_id": "8dae39f2-2793-41b0-8268-7fde85cae636",
+    "created": "2022-03-23 09:30:17.557535",
+    "default_package": null,
+    "name": "Acorns",
+    "platform": "web",
+    "rehash_reasons": [
+        "py3"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Log In (Navigation Input Field Test)": {
+        "description": "",
+        "is_deactivated": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "tap",
+                "label_count": null,
+                "labels": [
+                    "log_in"
+                ],
+                "timeout": null,
+                "type": "action",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "5fcb521e-ab7a-11ec-80c4-2af66dd5c1a0",
+        "title": "Log In (Navigation Input Field Test)"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "h1",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "oBHaRgXHipBHNpWBq948Yg==\n",
+    "height": 104,
+    "hier_level": 0,
+    "human_hash": "h1_X396_Y242_W420_H104",
+    "human_readable": "h1_396_242_420_104_h1_ffffffff7d7f0003000300038003ffeffffff7fff3ff041f001f001f001fffff_3813ed07b9c8c009fabdca68fe06446e",
+    "image_path": "ZTM4YTk5NTcxNDVkYWJkNjUzZGU4ZTFiNDQyMzUwZWU.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {},
+            "backend_node_id": 355,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 104.0,
+            "key": "396_242_420_104_Acorns helps you save & invest",
+            "tagName": "h1",
+            "text": "Acorns helps you save & invest",
+            "width": 420.0,
+            "x": 396.0,
+            "y": 242.0
+        },
+        "location": {
+            "x": 396.0,
+            "y": 242.0
+        },
+        "size": {
+            "height": 104.0,
+            "width": 420.0
+        },
+        "tag_name": "h1",
+        "text": "Acorns helps you save & invest"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "h1",
+    "text": "Acorns helps you save & invest",
+    "transformed": true,
+    "width": 420,
+    "x": 396,
+    "y": 242
+}

@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "XVIHEV15wRKIagskDckEZQ==\n",
+    "height": 23,
+    "hier_level": 0,
+    "human_hash": "p_X351_Y143_W214_H23",
+    "human_readable": "p_351_143_214_23_p_0000000000000000000000000000000000000000000000000000000000000000_91490b889c18dfed5aa329225a7d2200",
+    "image_path": "OGM5NmQ0ZGI1MjY1NzFmNGVhMTBlOWZlOWM4NTNkNWY.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nav-submenu-subtitle"
+            },
+            "backend_node_id": 266,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 23.0,
+            "key": "351_143_214_23_In partnership with",
+            "tagName": "p",
+            "text": "In partnership with",
+            "width": 214.0,
+            "x": 351.0,
+            "y": 143.0
+        },
+        "location": {
+            "x": 351.0,
+            "y": 143.0
+        },
+        "size": {
+            "height": 23.0,
+            "width": 214.0
+        },
+        "tag_name": "p",
+        "text": "In partnership with"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "In partnership with",
+    "transformed": true,
+    "width": 214,
+    "x": 351,
+    "y": 143
+}

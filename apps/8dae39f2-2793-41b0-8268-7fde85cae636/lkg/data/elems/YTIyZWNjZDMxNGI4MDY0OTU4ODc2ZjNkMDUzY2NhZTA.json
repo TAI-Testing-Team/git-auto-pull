@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "U9GYNj6TwCn70re3HYMbMA==\n",
+    "height": 91,
+    "hier_level": 0,
+    "human_hash": "div_X102_Y0_W85_H91",
+    "human_readable": "div_102_0_85_91_div_ffffffffffffffffffffffff7f7f00040004ffe7ffffffffffffffffffffffff_5741b26153549a530ba85bb4274cad1a",
+    "image_path": "YTIyZWNjZDMxNGI4MDY0OTU4ODc2ZjNkMDUzY2NhZTA.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-nav-item nav-item-with-children"
+            },
+            "backend_node_id": 187,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 91.0,
+            "key": "102_0_85_91_Investing\n               \n                        Invest\n                        \n                       \n                        Investment account\n                        \n                        Later\n                        \n                       \n                        Retirement\n                        \n                        Early\n                        \n                       \n                        Invest for kids\n                        \n                        Sustainable\n                        \n                       \n                        Sustainable ESG portfolios\n                        \n                        Bits of Bitcoin\n                        \n                           \n                            New\n                           \n                        Bitcoin ETF",
+            "tagName": "div",
+            "text": "Investing\n               \n                        Invest\n                        \n                       \n                        Investment account\n                        \n                        Later\n                        \n                       \n                        Retirement\n                        \n                        Early\n                        \n                       \n                        Invest for kids\n                        \n                        Sustainable\n                        \n                       \n                        Sustainable ESG portfolios\n                        \n                        Bits of Bitcoin\n                        \n                           \n                            New\n                           \n                        Bitcoin ETF",
+            "width": 85.0,
+            "x": 102.0,
+            "y": 0.0
+        },
+        "location": {
+            "x": 102.0,
+            "y": 0.0
+        },
+        "size": {
+            "height": 91.0,
+            "width": 85.0
+        },
+        "tag_name": "div",
+        "text": "Investing\n               \n                        Invest\n                        \n                       \n                        Investment account\n                        \n                        Later\n                        \n                       \n                        Retirement\n                        \n                        Early\n                        \n                       \n                        Invest for kids\n                        \n                        Sustainable\n                        \n                       \n                        Sustainable ESG portfolios\n                        \n                        Bits of Bitcoin\n                        \n                           \n                            New\n                           \n                        Bitcoin ETF"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Investing\n               \n                        Invest\n                        \n                       \n                        Investment account\n                        \n                        Later\n                        \n                       \n                        Retirement\n                        \n                        Early\n                        \n                       \n                        Invest for kids\n                        \n                        Sustainable\n                        \n                       \n                        Sustainable ESG portfolios\n                        \n                        Bits of Bitcoin\n                        \n                           \n                            New\n                           \n                        Bitcoin ETF",
+    "transformed": true,
+    "width": 85,
+    "x": 102,
+    "y": 0
+}

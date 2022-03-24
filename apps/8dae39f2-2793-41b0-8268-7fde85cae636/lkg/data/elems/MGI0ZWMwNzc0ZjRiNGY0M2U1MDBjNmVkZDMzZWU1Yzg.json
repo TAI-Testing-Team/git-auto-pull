@@ -1,0 +1,71 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "input",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "7b85VzXbwXJhahkILnzbvw==\n",
+    "height": 44,
+    "hier_level": 0,
+    "human_hash": "input_X760_Y502_W400_H44",
+    "human_readable": "input_760_502_400_44_input_0000fffffffffffffffffff9fff80ffc0ffcffffffffffffffffffffffff0000_9d4568c009d203ab10e33ea9953a0264",
+    "image_path": "MGI0ZWMwNzc0ZjRiNGY0M2U1MDBjNmVkZDMzZWU1Yzg.png",
+    "index": -1,
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sc-kXeGPI cVupsv",
+                "data-testid": "text_input",
+                "id": "password",
+                "label": "Password",
+                "name": "password",
+                "placeholder": "\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf\u25cf",
+                "type": "password",
+                "value": ""
+            },
+            "backend_node_id": 8848,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 44.0,
+            "key": "760_502_400_44_",
+            "tagName": "input",
+            "text": "",
+            "width": 400.0,
+            "x": 760.0,
+            "y": 502.0
+        },
+        "location": {
+            "x": 760.0,
+            "y": 502.0
+        },
+        "size": {
+            "height": 44.0,
+            "width": 400.0
+        },
+        "tag_name": "input",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "5a51e566553902832032178206f9ae90",
+    "screen_height": 956,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "input",
+    "text": "",
+    "transformed": true,
+    "width": 400,
+    "x": 760,
+    "y": 502
+}

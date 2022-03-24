@@ -1,0 +1,27 @@
+{
+    "Navigation Step": {
+        "category": null,
+        "description": "",
+        "is_deactivated": false,
+        "is_standard_test": false,
+        "steps": [
+            {
+                "continue_on_failure": false,
+                "description": "",
+                "grep": "",
+                "grep_count": null,
+                "input": "",
+                "label_count": null,
+                "labels": [
+                    "scrn_earning"
+                ],
+                "timeout": null,
+                "type": "navigation",
+                "widget": ""
+            }
+        ],
+        "tags": [],
+        "temp_id": "cb8a5bb4-aa9c-11ec-9d3e-2af66dd5c1a0",
+        "title": "Navigation Step"
+    }
+}

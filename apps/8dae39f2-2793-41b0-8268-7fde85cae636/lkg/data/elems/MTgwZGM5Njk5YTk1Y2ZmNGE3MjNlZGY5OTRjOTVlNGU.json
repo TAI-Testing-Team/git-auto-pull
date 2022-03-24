@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "p",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "j225V+IfIKf123cNDaxcCA==\n",
+    "height": 23,
+    "hier_level": 0,
+    "human_hash": "p_X136_Y143_W146_H23",
+    "human_readable": "p_136_143_146_23_p_0000000000000000000000000000000000000000000000000000000000000000_d27e7c5d476033552c8f31bdae7a0123",
+    "image_path": "MTgwZGM5Njk5YTk1Y2ZmNGE3MjNlZGY5OTRjOTVlNGU.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "nav-submenu-subtitle"
+            },
+            "backend_node_id": 256,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 23.0,
+            "key": "136_143_146_23_Understanding finance",
+            "tagName": "p",
+            "text": "Understanding finance",
+            "width": 146.0,
+            "x": 136.0,
+            "y": 143.0
+        },
+        "location": {
+            "x": 136.0,
+            "y": 143.0
+        },
+        "size": {
+            "height": 23.0,
+            "width": 146.0
+        },
+        "tag_name": "p",
+        "text": "Understanding finance"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "p",
+    "text": "Understanding finance",
+    "transformed": true,
+    "width": 146,
+    "x": 136,
+    "y": 143
+}

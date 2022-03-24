@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "mtALch925CiYishf5hOWvQ==\n",
+    "height": 42,
+    "hier_level": 0,
+    "human_hash": "a_X40_Y24_W62_H42",
+    "human_readable": "a_40_24_62_42_a_ffffe7ffc3ff81ff00ff00ff00ff00ff00ff00ff00ff81ff81ffc3ffe7ffffff_9d4568c009d203ab10e33ea9953a0264",
+    "image_path": "NmM5MDI5NDBjNGU2NDRjMjA1ZjNlNzM3MDNjMDBkZWE.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "logo-wrapper",
+                "data-track-id": "redesignedHeaderLogo",
+                "href": "/"
+            },
+            "backend_node_id": 186,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 42.0,
+            "key": "40_24_62_42_",
+            "tagName": "a",
+            "text": "",
+            "width": 62.0,
+            "x": 40.0,
+            "y": 24.0
+        },
+        "location": {
+            "x": 40.0,
+            "y": 24.0
+        },
+        "size": {
+            "height": 42.0,
+            "width": 62.0
+        },
+        "tag_name": "a",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "",
+    "transformed": true,
+    "width": 62,
+    "x": 40,
+    "y": 24
+}

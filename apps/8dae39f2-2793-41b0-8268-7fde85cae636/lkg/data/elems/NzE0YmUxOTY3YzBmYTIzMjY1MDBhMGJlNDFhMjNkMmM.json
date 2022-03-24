@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "img",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "704O5bag4bG2l30IrCcs9w==\n",
+    "height": 24,
+    "hier_level": 0,
+    "human_hash": "img_X591_Y120_W24_H24",
+    "human_readable": "img_591_120_24_24_img_0000000000000000000000000000000000000000000000000000000000000000_9d4568c009d203ab10e33ea9953a0264",
+    "image_path": "NzE0YmUxOTY3YzBmYTIzMjY1MDBhMGJlNDFhMjNkMmM.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "alt": "Sustainable",
+                "class": "nav-submenu-icon",
+                "src": "https://sqy7rm.media.zestyio.com/Sustainable-Icon-24x24.svg"
+            },
+            "backend_node_id": 223,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 24.0,
+            "key": "591_120_24_24_",
+            "tagName": "img",
+            "text": "",
+            "width": 24.0,
+            "x": 591.0,
+            "y": 120.0
+        },
+        "location": {
+            "x": 591.0,
+            "y": 120.0
+        },
+        "size": {
+            "height": 24.0,
+            "width": 24.0
+        },
+        "tag_name": "img",
+        "text": ""
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "img",
+    "text": "",
+    "transformed": true,
+    "width": 24,
+    "x": 591,
+    "y": 120
+}

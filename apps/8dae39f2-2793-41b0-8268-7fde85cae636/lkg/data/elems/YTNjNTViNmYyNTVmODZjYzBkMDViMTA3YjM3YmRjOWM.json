@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "rJnT5rS44MXZx/+mqYYt8w==\n",
+    "height": 91,
+    "hier_level": 0,
+    "human_hash": "a_X318_Y0_W57_H91",
+    "human_readable": "a_318_0_57_91_a_ffffffffffffffffffffffff1fdf00000000fffcffffffffffffffffffffffff_1167c45f89f014c038feefbe2a4becde",
+    "image_path": "YTNjNTViNmYyNTVmODZjYzBkMDViMTA3YjM3YmRjOWM.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-nav-item",
+                "data-track-id": "redesignedHeaderEarn",
+                "href": "/earn"
+            },
+            "backend_node_id": 75,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 91.0,
+            "key": "318_0_57_91_Earning",
+            "tagName": "a",
+            "text": "Earning",
+            "width": 57.0,
+            "x": 318.0,
+            "y": 0.0
+        },
+        "location": {
+            "x": 318.0,
+            "y": 0.0
+        },
+        "size": {
+            "height": 91.0,
+            "width": 57.0
+        },
+        "tag_name": "a",
+        "text": "Earning"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Earning",
+    "transformed": true,
+    "width": 57,
+    "x": 318,
+    "y": 0
+}

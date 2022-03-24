@@ -1,0 +1,30 @@
+
+#Apple stuff
+*.DS_Store
+
+# Test.ai
+install_logs.log
+build_db.json
+/config
+tmp
+walkthrough.json
+
+# Mobile app files
+*.zip
+*.apk
+*.ipa
+
+# Files and folders to ignore or keep
+*.pyc
+apps/*/**/*/test_runs/**/*
+apps/*/builds/*/crawls/**/*
+apps/*/builds/*/test_runs/**/*
+apps/*/builds/*/logs/**/*
+apps/*/lkg/*.json
+!apps/*/lkg/removed_labels.json
+apps/*/lkg/data/elems/uniques/**/*
+apps/*/lkg/data/screens/uniques/**/*
+apps/*/lkg/data/labeler_objects.json
+apps/*/lkg/data/unique_tags.json
+apps/*/lkg/data/suggested_labels/**/*
+apps/*/lkg/data/unlabeled_elems/**/*

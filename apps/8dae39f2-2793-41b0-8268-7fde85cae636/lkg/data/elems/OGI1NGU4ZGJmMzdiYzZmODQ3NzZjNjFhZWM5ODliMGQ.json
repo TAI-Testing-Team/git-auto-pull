@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "Hb+f+TtsVPAea1tpkh+8hQ==\n",
+    "height": 91,
+    "hier_level": 0,
+    "human_hash": "a_X538_Y0_W51_H91",
+    "human_readable": "a_538_0_51_91_a_ffffffffffffffffffffffff1bbf00002000fff8ffffffffffffffffffffffff_7ee80bbe30ee6605d5f9ad3113611564",
+    "image_path": "OGI1NGU4ZGJmMzdiYzZmODQ3NzZjNjFhZWM5ODliMGQ.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "header-nav-item",
+                "data-track-id": "redesignedHeaderPricing",
+                "href": "/pricing"
+            },
+            "backend_node_id": 77,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 91.0,
+            "key": "538_0_51_91_Pricing",
+            "tagName": "a",
+            "text": "Pricing",
+            "width": 51.0,
+            "x": 538.0,
+            "y": 0.0
+        },
+        "location": {
+            "x": 538.0,
+            "y": 0.0
+        },
+        "size": {
+            "height": 91.0,
+            "width": 51.0
+        },
+        "tag_name": "a",
+        "text": "Pricing"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Pricing",
+    "transformed": true,
+    "width": 51,
+    "x": 538,
+    "y": 0
+}

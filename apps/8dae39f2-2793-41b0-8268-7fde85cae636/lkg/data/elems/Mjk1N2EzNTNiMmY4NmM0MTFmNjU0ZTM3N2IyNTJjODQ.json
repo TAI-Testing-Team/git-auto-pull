@@ -1,0 +1,65 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "a",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "wmFnM6X42RThLNG1YTMtlw==\n",
+    "height": 48,
+    "hier_level": 0,
+    "human_hash": "a_X396_Y494_W264_H48",
+    "human_readable": "a_396_494_264_48_a_c0018001800180018000840007e007e007e007e080008000800180018001c001_8d5e59a0b84fb3d6f10fd3e1b825deba",
+    "image_path": "Mjk1N2EzNTNiMmY4NmM0MTFmNjU0ZTM3N2IyNTJjODQ.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "hero-cta",
+                "data-track-id": "bodyGetStarted",
+                "href": "https://app.adjust.com/2bfkli_luqqxi?fallback=https://www.acorns.com/tier-signup?key=GOLD"
+            },
+            "backend_node_id": 359,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 48.0,
+            "key": "396_494_264_48_Get started",
+            "tagName": "a",
+            "text": "Get started",
+            "width": 264.0,
+            "x": 396.0,
+            "y": 494.0
+        },
+        "location": {
+            "x": 396.0,
+            "y": 494.0
+        },
+        "size": {
+            "height": 48.0,
+            "width": 264.0
+        },
+        "tag_name": "a",
+        "text": "Get started"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "2cde02d55980e4ff7f13f7d2b968c894",
+    "screen_height": 901,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "a",
+    "text": "Get started",
+    "transformed": true,
+    "width": 264,
+    "x": 396,
+    "y": 494
+}

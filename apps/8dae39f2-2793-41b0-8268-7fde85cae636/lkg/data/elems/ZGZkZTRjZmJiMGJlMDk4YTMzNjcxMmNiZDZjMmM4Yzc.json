@@ -1,0 +1,63 @@
+{
+    "behavior": "",
+    "checkable": false,
+    "class": "div",
+    "clickable": true,
+    "content-desc": "",
+    "enabled": true,
+    "focusable": true,
+    "focused": false,
+    "hash": "qFgXyhq0mf5xcooJRhau5w==\n",
+    "height": 76,
+    "hier_level": 0,
+    "human_hash": "div_X1524_Y840_W356_H76",
+    "human_readable": "div_1524_840_356_76_div_8001000000006000e01ee01eec1fe01fe01fe01fef9ee01e6000000000008001_1945727ac80a00b785806225450f778b",
+    "image_path": "ZGZkZTRjZmJiMGJlMDk4YTMzNjcxMmNiZDZjMmM4Yzc.png",
+    "internal": {
+        "elem_dict": {
+            "attributes": {
+                "class": "sticky-action-button"
+            },
+            "backend_node_id": 763,
+            "flags": {
+                "checkable": false,
+                "clickable": true,
+                "enabled": true,
+                "focusable": true,
+                "focused": false,
+                "scrollable": false
+            },
+            "height": 76.0,
+            "key": "1524_840_356_76_Acorns\n         \n          Over 9 million sign ups\n         Get started",
+            "tagName": "div",
+            "text": "Acorns\n         \n          Over 9 million sign ups\n         Get started",
+            "width": 356.0,
+            "x": 1524.0,
+            "y": 840.0
+        },
+        "location": {
+            "x": 1524.0,
+            "y": 840.0
+        },
+        "size": {
+            "height": 76.0,
+            "width": 356.0
+        },
+        "tag_name": "div",
+        "text": "Acorns\n         \n          Over 9 million sign ups\n         Get started"
+    },
+    "is_transformed": true,
+    "package": "",
+    "password": false,
+    "resource-id": "",
+    "screen_hash": "7ea9e506f772ae45dac550975b7e5c93",
+    "screen_height": 956,
+    "screen_width": 1920,
+    "scrollable": false,
+    "tag_name": "div",
+    "text": "Acorns\n         \n          Over 9 million sign ups\n         Get started",
+    "transformed": true,
+    "width": 356,
+    "x": 1524,
+    "y": 840
+}
